@@ -1,0 +1,1996 @@
+KundeNr,Typ,Geschlecht,Alter,Einkommen,Zeit,Modell,Preis,Quartal,Niederlassung
+K0310,Kunde,m,64,66894.0,43.0,E2,88160.31,3. Quartal,Bayern
+K1042,Kunde,m,54,77644.0,40.0,E2,103145.7,2. Quartal,Berlin
+K0382,Kunde,w,55,44341.0,37.0,E1,80565.16,4. Quartal,Baden-Württemberg
+K0498,Kunde,w,49,67271.0,42.0,E1,83949.89,1. Quartal,Bayern
+K0552,Kunde,w,46,49832.0,41.0,E1,93781.58,3. Quartal,Hessen
+K0833,Kunde,m,59,62970.0,56.0,E2,83862.47,4. Quartal,Hessen
+K0097,Kunde,m,36,23660.0,23.0,E1,49960.18,4. Quartal,Thüringen
+K0290,Kunde,m,50,62422.0,38.0,E2,94530.65,2. Quartal,Thüringen
+K0950,Kunde,m,32,34112.0,36.0,E1,62280.35,4. Quartal,Bayern
+K0102,Kunde,m,62,77546.0,52.0,E2,124857.23,1. Quartal,Baden-Württemberg
+K1098,Kunde,m,68,77662.0,54.0,E1,118227.18,3. Quartal,Thüringen
+K0071,Kunde,w,45,68432.0,39.0,E2,82849.76,4. Quartal,Berlin
+K1023,Kunde,w,51,37169.0,31.0,E1,57319.84,3. Quartal,Sachsen
+K0482,Kunde,m,65,78613.0,50.0,E3,114603.28,3. Quartal,Baden-Württemberg
+K0440,Kunde,m,53,69721.0,54.0,E2,98479.34,4. Quartal,Hessen
+K0877,Kunde,m,62,62350.0,42.0,E3,84761.44,2. Quartal,Hessen
+K0295,Kunde,m,34,57844.0,54.0,E3,62302.49,4. Quartal,Nordrhein-Westfalen
+K0329,Kunde,m,55,44222.0,37.0,E2,78218.77,3. Quartal,Bayern
+K0433,Kunde,w,53,74381.0,57.0,E3,120881.72,2. Quartal,Nordrhein-Westfalen
+K0142,Kunde,w,57,45095.0,42.0,E1,77157.15,3. Quartal,Baden-Württemberg
+K0762,Kunde,w,43,52813.0,44.0,E2,67106.32,2. Quartal,Berlin
+K0459,Kunde,w,46,49340.0,47.0,E1,69960.66,2. Quartal,Nordrhein-Westfalen
+K0865,Kunde,m,62,89774.0,72.0,E2,117051.99,3. Quartal,Sachsen
+K1001,Kunde,w,55,66861.0,54.0,E3,97465.12,2. Quartal,Bayern
+K0889,Kunde,w,66,84822.0,56.0,E2,118968.62,2. Quartal,Hessen
+K0917,Kunde,m,59,91693.0,52.0,E3,121840.18,2. Quartal,Bayern
+K0537,Kunde,w,67,61517.0,43.0,E1,80799.11,3. Quartal,Niedersachsen
+K0362,Kunde,w,66,78548.0,69.0,E3,121289.35,1. Quartal,Sachsen
+K0856,Kunde,w,40,61386.0,53.0,E2,81555.07,2. Quartal,Niedersachsen
+K0399,Kunde,w,41,45016.0,39.0,E1,65106.71,3. Quartal,Niedersachsen
+K0448,Kunde,m,30,39302.0,35.0,E1,71437.17,2. Quartal,Baden-Württemberg
+K0210,Kunde,m,65,83431.0,65.0,E3,119640.51,2. Quartal,Baden-Württemberg
+K0502,Kunde,m,48,46259.0,29.0,E1,73400.97,2. Quartal,Baden-Württemberg
+K0782,Kunde,m,53,56160.0,38.0,E1,93839.56,4. Quartal,Nordrhein-Westfalen
+K0912,Kunde,w,37,47689.0,20.0,E1,73619.96,4. Quartal,Hessen
+K0412,Kunde,m,55,56264.0,40.0,E3,83364.29,3. Quartal,Baden-Württemberg
+K0690,Kunde,w,34,27844.0,36.0,E2,41694.48,4. Quartal,Bayern
+K0698,Kunde,m,43,72619.0,56.0,E3,94619.66,2. Quartal,Berlin
+K0045,Kunde,w,57,51842.0,51.0,E2,70527.14,2. Quartal,Sachsen
+K0535,Kunde,w,39,16051.0,29.0,E1,24654.09,2. Quartal,Hamburg
+K0766,Kunde,w,55,63325.0,46.0,E2,89117.31,1. Quartal,Berlin
+K0335,Kunde,m,58,64638.0,46.0,E2,98621.47,2. Quartal,Bayern
+K0695,Kunde,m,44,54514.0,53.0,E1,80645.05,2. Quartal,Hessen
+K0603,Kunde,w,39,44538.0,40.0,E2,74086.48,3. Quartal,Bayern
+K0520,Kunde,m,65,96471.0,55.0,E2,145684.18,2. Quartal,Nordrhein-Westfalen
+K0468,Kunde,m,36,35235.0,22.0,E1,67764.25,2. Quartal,Nordrhein-Westfalen
+K1047,Kunde,m,36,41489.0,47.0,E1,63321.68,2. Quartal,Baden-Württemberg
+K0619,Kunde,m,70,77553.0,58.0,E3,119128.85,4. Quartal,Bayern
+K0449,Kunde,m,62,62829.0,42.0,E1,96175.78,2. Quartal,Baden-Württemberg
+K0919,Kunde,w,50,67714.0,55.0,E2,90616.13,3. Quartal,Hessen
+K0052,Kunde,m,69,73444.0,47.0,E3,115561.62,3. Quartal,Niedersachsen
+K0732,Kunde,m,52,49778.0,44.0,E2,72763.75,4. Quartal,Thüringen
+K0622,Kunde,m,46,61088.0,48.0,E1,117616.31,4. Quartal,Berlin
+K0735,Kunde,w,40,61057.0,47.0,E1,77084.28,2. Quartal,Baden-Württemberg
+K0199,Kunde,m,35,52067.0,44.0,E2,67345.58,3. Quartal,Berlin
+K0057,Kunde,m,58,64180.0,51.0,E1,98148.01,2. Quartal,Baden-Württemberg
+K0507,Kunde,m,41,39630.0,41.0,E1,80659.67,2. Quartal,Bayern
+K0299,Kunde,w,46,67665.0,50.0,E2,83620.57,3. Quartal,Berlin
+K0531,Kunde,w,40,43103.0,33.0,E1,77219.0,2. Quartal,Berlin
+K0998,Kunde,w,35,39813.0,31.0,E1,60757.87,2. Quartal,Niedersachsen
+K0193,Kunde,w,40,45448.0,40.0,E1,70066.79,1. Quartal,Baden-Württemberg
+K0139,Kunde,w,61,90246.0,61.0,E3,111436.45,4. Quartal,Bayern
+K0588,Kunde,m,65,60323.0,47.0,E3,90362.92,2. Quartal,Niedersachsen
+K0406,Kunde,m,57,70535.0,46.0,E3,88743.79,2. Quartal,Nordrhein-Westfalen
+K0630,Kunde,m,64,76331.0,52.0,E3,108153.91,4. Quartal,Baden-Württemberg
+K0713,Kunde,m,53,57988.0,45.0,E1,114801.87,3. Quartal,Nordrhein-Westfalen
+K1056,Kunde,m,35,58838.0,47.0,E3,81539.66,4. Quartal,Sachsen
+K0957,Kunde,m,68,89783.0,73.0,E2,138190.26,3. Quartal,Baden-Württemberg
+K0110,Kunde,m,64,69256.0,47.0,E1,110341.3,2. Quartal,Berlin
+K0278,Kunde,w,46,47284.0,46.0,E2,62114.5,4. Quartal,Niedersachsen
+K0032,Kunde,m,66,63799.0,48.0,E2,109159.01,2. Quartal,Brandenburg
+K0087,Kunde,w,40,47192.0,48.0,E3,72220.0,2. Quartal,Sachsen
+K0454,Kunde,m,41,42992.0,38.0,E1,65811.72,2. Quartal,Bayern
+K0089,Kunde,m,37,45503.0,35.0,E1,50836.91,2. Quartal,Nordrhein-Westfalen
+K0108,Kunde,m,51,66908.0,65.0,E3,93021.39,3. Quartal,Bayern
+K0333,Kunde,w,38,34983.0,33.0,E2,39236.62,4. Quartal,Hamburg
+K0944,Kunde,m,43,38995.0,43.0,E1,61300.12,4. Quartal,Nordrhein-Westfalen
+K0774,Kunde,m,64,60640.0,46.0,E2,92602.45,2. Quartal,Baden-Württemberg
+K0716,Kunde,m,46,62061.0,43.0,E1,105588.24,2. Quartal,Nordrhein-Westfalen
+K1029,Kunde,m,55,63152.0,46.0,E2,101027.77,3. Quartal,Niedersachsen
+K0466,Kunde,m,63,65114.0,47.0,E3,102718.58,2. Quartal,Berlin
+K0729,Kunde,m,31,45575.0,41.0,E2,67425.51,2. Quartal,Bayern
+K0426,Kunde,m,39,48855.0,46.0,E3,68265.8,3. Quartal,Hessen
+K0573,Kunde,m,68,84070.0,63.0,E3,122645.18,3. Quartal,Brandenburg
+K0523,Kunde,w,68,83899.0,59.0,E2,128052.56,3. Quartal,Berlin
+K0614,Kunde,m,55,81244.0,58.0,E3,108119.52,4. Quartal,Hamburg
+K0938,Kunde,w,44,40928.0,36.0,E1,68349.12,4. Quartal,Niedersachsen
+K0011,Kunde,m,53,30821.0,26.0,E1,58450.55,4. Quartal,Nordrhein-Westfalen
+K1094,Kunde,m,33,46732.0,37.0,E2,78942.39,2. Quartal,Berlin
+K0934,Kunde,w,61,59597.0,47.0,E2,104647.51,2. Quartal,Baden-Württemberg
+K0725,Kunde,m,53,63147.0,47.0,E1,105317.06,2. Quartal,Hamburg
+K0328,Kunde,w,31,30572.0,31.0,E1,47857.93,2. Quartal,Thüringen
+K0179,Kunde,m,31,24944.0,35.0,E1,31094.22,3. Quartal,Hessen
+K0568,Kunde,w,57,37682.0,45.0,E1,48170.28,2. Quartal,Berlin
+K0974,Kunde,m,42,68945.0,49.0,E2,88842.18,1. Quartal,Berlin
+K0591,Kunde,w,49,32964.0,29.0,E2,49823.49,2. Quartal,Bayern
+K0952,Kunde,m,37,55505.0,39.0,E2,61612.78,4. Quartal,Berlin
+K0586,Kunde,m,40,50626.0,40.0,E1,75452.53,2. Quartal,Sachsen
+K0114,Kunde,w,43,45517.0,33.0,E1,63320.19,4. Quartal,Hessen
+K0843,Kunde,w,60,60569.0,52.0,E2,89849.34,3. Quartal,Brandenburg
+K0334,Kunde,w,68,94307.0,56.0,E2,139799.0,2. Quartal,Berlin
+K0050,Kunde,w,46,50946.0,32.0,E3,83406.88,2. Quartal,Nordrhein-Westfalen
+K0060,Kunde,w,63,92456.0,57.0,E2,141292.39,2. Quartal,Bayern
+K0945,Kunde,w,69,80400.0,54.0,E1,120052.16,2. Quartal,Berlin
+K1028,Kunde,m,50,55477.0,46.0,E2,88889.58,2. Quartal,Hamburg
+K0755,Kunde,m,35,25203.0,37.0,E1,48554.06,2. Quartal,Brandenburg
+K0274,Kunde,w,49,34170.0,30.0,E2,53806.21,1. Quartal,Hessen
+K0949,Kunde,m,35,53806.0,45.0,E3,84195.58,2. Quartal,Berlin
+K0585,Kunde,w,50,35262.0,25.0,E1,55722.36,3. Quartal,Berlin
+K0784,Kunde,m,55,79794.0,54.0,E3,118498.73,3. Quartal,Hessen
+K0024,Kunde,,41,46542.0,40.0,E2,63477.0,2. Quartal,Baden-Württemberg
+K0219,Kunde,m,62,72626.0,59.0,E3,109158.35,4. Quartal,Baden-Württemberg
+K0159,Kunde,m,68,77118.0,47.0,E3,83418.33,2. Quartal,Berlin
+K0532,Kunde,w,47,56965.0,41.0,E2,86689.81,2. Quartal,Niedersachsen
+K0211,Kunde,w,48,67923.0,41.0,E2,104683.62,3. Quartal,Sachsen
+K0680,Kunde,w,63,55422.0,40.0,E2,81784.14,4. Quartal,Sachsen
+K1035,Kunde,m,50,64086.0,34.0,E2,92285.2,2. Quartal,Sachsen
+K0813,Kunde,w,51,72996.0,50.0,E2,124497.54,2. Quartal,Bayern
+K0981,Kunde,w,34,25970.0,33.0,E1,45444.01,2. Quartal,Bayern
+K0084,Kunde,m,30,42551.0,46.0,E3,58706.65,4. Quartal,Niedersachsen
+K0982,Kunde,w,58,73890.0,48.0,E3,100147.52,3. Quartal,Sachsen
+K0421,Kunde,w,39,59413.0,44.0,E1,80369.74,2. Quartal,Baden-Württemberg
+K0834,Kunde,m,60,51460.0,31.0,E2,80985.24,1. Quartal,Sachsen
+K0826,Kunde,w,51,72225.0,52.0,E3,120296.65,3. Quartal,Nordrhein-Westfalen
+K0721,Kunde,m,46,65611.0,54.0,E2,85435.92,3. Quartal,Thüringen
+K0129,Kunde,m,61,57745.0,49.0,E2,102766.17,2. Quartal,Baden-Württemberg
+K0360,Kunde,m,35,38580.0,44.0,E1,47131.37,3. Quartal,Baden-Württemberg
+K0276,Kunde,w,36,55185.0,50.0,E2,64034.01,3. Quartal,Nordrhein-Westfalen
+K0954,Kunde,m,58,52599.0,47.0,E3,88810.94,2. Quartal,Sachsen
+K0320,Kunde,m,32,31090.0,29.0,E2,59413.64,3. Quartal,Baden-Württemberg
+K0077,Kunde,m,58,59695.0,43.0,E2,99547.37,2. Quartal,Bayern
+K0618,Kunde,m,66,73497.0,47.0,E3,104863.39,3. Quartal,Baden-Württemberg
+K0209,Kunde,m,49,40198.0,52.0,E3,62115.3,2. Quartal,Bayern
+K0571,Kunde,m,37,43760.0,35.0,E2,63570.42,1. Quartal,Hessen
+K0221,Kunde,m,68,70277.0,48.0,E2,130143.33,2. Quartal,Bayern
+K0287,Kunde,m,56,66786.0,55.0,E2,108886.48,3. Quartal,Berlin
+K0789,Kunde,m,47,57545.0,45.0,E1,70459.81,2. Quartal,Niedersachsen
+K0378,Kunde,w,48,47153.0,20.0,E2,67603.44,2. Quartal,Sachsen
+K0244,Kunde,m,48,30477.0,29.0,E1,53902.36,2. Quartal,Niedersachsen
+K0140,Kunde,w,36,47319.0,43.0,E2,76696.47,2. Quartal,Sachsen
+K0232,Kunde,w,36,39697.0,48.0,E1,60883.05,3. Quartal,Sachsen
+K0994,Kunde,m,40,59298.0,40.0,E2,96941.73,3. Quartal,Sachsen
+K0494,Kunde,w,100,88749.0,64.0,E3,119134.23,3. Quartal,Bayern
+K0631,Kunde,m,35,51556.0,46.0,E3,73467.98,2. Quartal,Bayern
+K0372,Kunde,w,69,82036.0,52.0,E3,118543.95,4. Quartal,Berlin
+K0709,Kunde,m,56,69651.0,54.0,E1,123769.4,2. Quartal,Baden-Württemberg
+K0271,Kunde,m,62,62114.0,44.0,E3,87670.86,3. Quartal,Berlin
+K0815,Kunde,m,37,37168.0,30.0,E2,55031.56,2. Quartal,Bayern
+K0968,Kunde,m,31,41983.0,50.0,E1,43660.45,3. Quartal,Baden-Württemberg
+K1055,Kunde,m,36,46427.0,28.0,E1,57408.1,2. Quartal,Bayern
+K0157,Kunde,w,70,63937.0,46.0,E3,121009.5,2. Quartal,Hessen
+K0862,Kunde,m,33,23596.0,27.0,E2,44008.34,3. Quartal,Baden-Württemberg
+K0964,Kunde,m,56,67000.0,63.0,E2,117255.91,2. Quartal,Baden-Württemberg
+K0986,Kunde,w,56,57640.0,46.0,E2,83811.43,3. Quartal,Niedersachsen
+K1030,Kunde,w,65,86078.0,68.0,E2,133381.03,2. Quartal,Thüringen
+K0465,Kunde,w,55,62380.0,64.0,E2,92302.99,3. Quartal,Niedersachsen
+K0079,Kunde,w,30,49606.0,34.0,E2,76579.11,4. Quartal,Baden-Württemberg
+K0175,Kunde,m,32,50330.0,27.0,E2,49540.28,2. Quartal,Bayern
+K0809,Kunde,w,32,28303.0,26.0,E1,57388.47,3. Quartal,Bayern
+K0791,Kunde,m,64,93624.0,55.0,E1,126237.04,3. Quartal,Bayern
+K0528,Kunde,m,64,85374.0,62.0,E3,121684.52,1. Quartal,Baden-Württemberg
+K0644,Kunde,m,50,41164.0,31.0,E3,74268.93,3. Quartal,Nordrhein-Westfalen
+K0332,Kunde,m,62,80179.0,56.0,E2,138650.02,4. Quartal,Niedersachsen
+K0040,Kunde,m,43,44559.0,22.0,E1,74144.49,2. Quartal,Sachsen
+K0031,Kunde,m,32,40277.0,34.0,E1,42093.26,2. Quartal,Bayern
+K0814,Kunde,w,63,63391.0,43.0,E1,105484.64,4. Quartal,Berlin
+K0137,Kunde,m,65,77918.0,62.0,E2,104728.1,2. Quartal,Nordrhein-Westfalen
+K0055,Kunde,m,35,53464.0,41.0,E3,82821.95,4. Quartal,Bayern
+K0812,Kunde,m,65,58549.0,38.0,E2,97388.62,4. Quartal,Baden-Württemberg
+K0717,Kunde,w,34,55070.0,46.0,E2,67139.29,2. Quartal,Berlin
+K0526,Kunde,m,60,70296.0,46.0,E1,94507.15,2. Quartal,Niedersachsen
+K1063,Kunde,w,50,70355.0,50.0,E2,104977.17,1. Quartal,Niedersachsen
+K0324,Kunde,w,51,75335.0,50.0,E2,110590.22,3. Quartal,Sachsen
+K0632,Kunde,m,47,48751.0,43.0,E2,79984.29,2. Quartal,Berlin
+K0004,Kunde,w,37,48957.0,36.0,E3,76412.36,3. Quartal,Bayern
+K0431,Kunde,m,33,35813.0,31.0,E1,54223.32,3. Quartal,Bayern
+K0505,Kunde,m,70,90763.0,74.0,E1,149827.25,2. Quartal,Sachsen
+K1072,Kunde,w,36,59150.0,46.0,E3,63818.75,3. Quartal,Thüringen
+K0689,Kunde,m,30,51957.0,37.0,E3,86152.97,2. Quartal,Bayern
+K1014,Kunde,m,66,67768.0,54.0,E3,125157.59,3. Quartal,Sachsen
+K0261,Kunde,m,58,65162.0,56.0,E3,106934.76,4. Quartal,Bayern
+K0200,Kunde,m,51,54077.0,48.0,E2,77842.13,2. Quartal,Berlin
+K0059,Kunde,w,55,68245.0,52.0,E3,112358.24,2. Quartal,Baden-Württemberg
+K0064,Kunde,m,60,68926.0,39.0,E3,91715.99,3. Quartal,Bayern
+K0702,Kunde,m,67,87538.0,53.0,E3,120582.75,2. Quartal,Berlin
+K0714,Kunde,w,44,57008.0,43.0,E1,77339.83,3. Quartal,Thüringen
+K0366,Kunde,w,68,62116.0,44.0,E3,98786.45,3. Quartal,Hamburg
+K0101,Kunde,andere,63,85695.0,61.0,E3,114451.46,3. Quartal,Brandenburg
+K0169,Kunde,w,61,65117.0,49.0,E3,102799.87,2. Quartal,Bayern
+K0540,Kunde,m,69,63958.0,42.0,E1,106491.22,3. Quartal,Nordrhein-Westfalen
+K0356,Kunde,w,51,64228.0,46.0,E2,85280.73,2. Quartal,Bayern
+K0248,Kunde,w,53,68587.0,61.0,E3,94955.06,2. Quartal,Hamburg
+K0569,Kunde,m,49,66068.0,51.0,E3,93925.34,2. Quartal,Berlin
+K1074,Kunde,m,61,74008.0,62.0,E2,110730.9,4. Quartal,Hessen
+K0389,Kunde,w,61,91903.0,60.0,E2,111764.41,2. Quartal,Sachsen
+K1024,Kunde,m,40,45828.0,46.0,E1,93946.55,3. Quartal,Niedersachsen
+K1080,Kunde,m,59,78591.0,66.0,E3,121131.95,2. Quartal,Nordrhein-Westfalen
+K0887,Kunde,m,49,74627.0,65.0,E3,102198.45,2. Quartal,Bayern
+K0480,Kunde,m,64,86943.0,68.0,E1,126122.42,1. Quartal,Thüringen
+K1046,Kunde,m,31,22137.0,20.0,E1,38697.44,2. Quartal,Nordrhein-Westfalen
+K0067,Kunde,m,43,70304.0,52.0,E3,83886.2,2. Quartal,Thüringen
+K0615,Kunde,w,37,31911.0,34.0,E2,49510.98,2. Quartal,Hessen
+K0068,Kunde,m,52,49657.0,46.0,E1,89589.3,4. Quartal,Nordrhein-Westfalen
+K0245,Kunde,w,45,57880.0,44.0,E2,98898.93,3. Quartal,Nordrhein-Westfalen
+K0013,Kunde,m,69,89082.0,66.0,E3,124730.66,3. Quartal,Nordrhein-Westfalen
+K0355,Kunde,m,52,59767.0,52.0,E3,90442.28,4. Quartal,Berlin
+K0757,Kunde,m,34,51868.0,33.0,E2,87676.29,2. Quartal,Baden-Württemberg
+K0463,Kunde,w,55,62186.0,38.0,E2,90301.78,3. Quartal,Niedersachsen
+K0297,Kunde,m,33,45811.0,40.0,E1,64066.66,3. Quartal,Berlin
+K0637,Kunde,w,59,66293.0,44.0,E2,91936.18,3. Quartal,Baden-Württemberg
+K0753,Kunde,w,51,65955.0,44.0,E2,122657.88,2. Quartal,Bayern
+K0185,Kunde,m,30,18515.0,30.0,E2,41027.79,2. Quartal,Bayern
+K0343,Kunde,m,49,55986.0,37.0,E1,71207.17,2. Quartal,Bayern
+K0582,Kunde,m,61,72725.0,42.0,E3,109982.32,2. Quartal,Baden-Württemberg
+K0238,Kunde,w,34,60319.0,51.0,E1,77978.88,3. Quartal,Niedersachsen
+K0483,Kunde,w,47,55536.0,37.0,E2,76897.16,4. Quartal,Bayern
+K1058,Kunde,m,62,76222.0,56.0,E3,107580.68,2. Quartal,Hessen
+K0322,Kunde,m,53,50089.0,39.0,E3,90472.38,4. Quartal,Bayern
+K0983,Kunde,m,33,38675.0,13.0,E1,56493.4,2. Quartal,Baden-Württemberg
+K0925,Kunde,m,33,35064.0,39.0,E2,48350.07,3. Quartal,Berlin
+K0772,Kunde,m,30,42861.0,42.0,E1,74561.85,2. Quartal,Baden-Württemberg
+K1007,Kunde,m,54,57917.0,47.0,E1,94386.02,3. Quartal,Niedersachsen
+K0257,Kunde,m,64,78797.0,65.0,E3,109839.35,3. Quartal,Bayern
+K0291,Kunde,w,59,59443.0,46.0,E1,99016.21,2. Quartal,Baden-Württemberg
+K0293,Kunde,w,57,56668.0,37.0,E1,95820.3,2. Quartal,Brandenburg
+K0003,Kunde,m,44,48195.0,29.0,E1,85705.57,2. Quartal,Hessen
+K0007,Kunde,m,48,44481.0,30.0,E1,63604.43,3. Quartal,Nordrhein-Westfalen
+K0902,Kunde,w,40,50097.0,38.0,E3,73036.86,4. Quartal,Hamburg
+K0391,Kunde,m,69,74462.0,36.0,E3,110415.92,2. Quartal,Berlin
+K1085,Kunde,m,69,88545.0,58.0,E3,130019.9,1. Quartal,Bayern
+K0319,Kunde,m,60,89512.0,59.0,E1,145466.52,2. Quartal,Nordrhein-Westfalen
+K0886,Kunde,m,31,37149.0,29.0,E1,65317.0,2. Quartal,Hamburg
+K0963,Kunde,w,66,77961.0,40.0,E1,121393.97,3. Quartal,Niedersachsen
+K0883,Kunde,w,31,56282.0,43.0,E1,81611.9,3. Quartal,Thüringen
+K0216,Kunde,w,61,72965.0,52.0,E2,117298.71,3. Quartal,Bayern
+K0266,Kunde,m,45,82896.0,53.0,E3,116749.66,4. Quartal,Thüringen
+K0534,Kunde,w,38,44329.0,29.0,E1,48028.91,4. Quartal,Hessen
+K0874,Kunde,m,65,80375.0,64.0,E2,121858.27,3. Quartal,Niedersachsen
+K0597,Kunde,w,30,55132.0,55.0,E2,74760.4,2. Quartal,Nordrhein-Westfalen
+K0446,Kunde,m,41,53816.0,34.0,E3,68749.31,4. Quartal,Baden-Württemberg
+K1100,Kunde,m,61,82624.0,59.0,E3,134755.8,2. Quartal,Berlin
+K0763,Kunde,m,55,75863.0,60.0,E2,96369.11,1. Quartal,Hessen
+K0658,Kunde,m,46,67111.0,55.0,E1,93112.35,4. Quartal,Hessen
+K0300,Kunde,m,57,78848.0,59.0,E3,122846.97,2. Quartal,Sachsen
+K0799,Kunde,w,68,66119.0,59.0,E2,107741.21,3. Quartal,Brandenburg
+K0617,Kunde,m,57,73224.0,49.0,E2,94361.83,1. Quartal,Berlin
+K0368,Kunde,w,35,20317.0,24.0,E1,60372.24,1. Quartal,Hessen
+K0894,Kunde,w,44,42754.0,35.0,E1,69418.9,3. Quartal,Berlin
+K0347,Kunde,m,43,33444.0,36.0,E1,63707.22,3. Quartal,Nordrhein-Westfalen
+K0429,Kunde,w,30,47328.0,45.0,E1,72459.7,4. Quartal,Nordrhein-Westfalen
+K0705,Kunde,m,63,88113.0,72.0,E3,123910.94,2. Quartal,Baden-Württemberg
+K0026,Kunde,m,54,53037.0,44.0,E2,88479.15,3. Quartal,Nordrhein-Westfalen
+K0425,Kunde,m,60,94859.0,61.0,E2,138156.74,2. Quartal,Hessen
+K0975,Kunde,m,60,66507.0,41.0,E3,103384.25,2. Quartal,Niedersachsen
+K1011,Kunde,w,65,45863.0,47.0,E1,88037.39,2. Quartal,Brandenburg
+K0980,Kunde,w,37,28037.0,24.0,E1,37558.95,2. Quartal,Brandenburg
+K0107,Kunde,m,69,89976.0,71.0,E2,129284.1,4. Quartal,Bayern
+K0056,Kunde,m,33,69142.0,52.0,E3,107174.44,2. Quartal,Hessen
+K0381,Kunde,m,66,86491.0,59.0,E2,127825.69,2. Quartal,Nordrhein-Westfalen
+K0214,Kunde,m,48,66286.0,38.0,E3,88275.44,2. Quartal,Niedersachsen
+K0121,Kunde,m,56,67292.0,54.0,E1,90615.29,2. Quartal,Bayern
+K0881,Kunde,m,52,43463.0,26.0,E1,57784.07,3. Quartal,Brandenburg
+K0553,Kunde,w,36,57337.0,53.0,E2,95615.03,3. Quartal,Berlin
+K0073,Kunde,m,53,54940.0,45.0,E2,82628.47,4. Quartal,Berlin
+K0629,Kunde,m,42,44277.0,39.0,E2,67064.45,3. Quartal,Nordrhein-Westfalen
+K0353,Kunde,m,31,38149.0,43.0,E1,46875.9,2. Quartal,Nordrhein-Westfalen
+K0508,Kunde,m,38,57891.0,38.0,E3,73104.4,2. Quartal,Bayern
+K0850,Kunde,m,44,56488.0,39.0,E2,99913.03,2. Quartal,Bayern
+K0627,Kunde,w,57,66341.0,38.0,E2,85104.71,4. Quartal,Nordrhein-Westfalen
+K0443,Kunde,m,62,79285.0,49.0,E2,121004.55,4. Quartal,Nordrhein-Westfalen
+K0307,Kunde,m,53,62592.0,48.0,E2,93932.46,2. Quartal,Baden-Württemberg
+K0352,Kunde,m,63,60374.0,38.0,E3,92221.35,2. Quartal,Baden-Württemberg
+K0775,Kunde,w,44,63671.0,48.0,E1,102706.73,4. Quartal,Nordrhein-Westfalen
+K0524,Kunde,m,68,69381.0,45.0,E1,102303.37,2. Quartal,Berlin
+K0696,Kunde,m,66,74011.0,56.0,E3,116589.56,3. Quartal,Baden-Württemberg
+K1069,Kunde,m,51,63650.0,54.0,E3,95477.5,2. Quartal,Baden-Württemberg
+K0579,Kunde,m,62,73034.0,38.0,E3,104459.86,4. Quartal,Thüringen
+K0309,Kunde,m,60,51150.0,38.0,E2,94420.15,3. Quartal,Baden-Württemberg
+K0478,Kunde,w,38,45935.0,49.0,E2,76303.93,3. Quartal,Brandenburg
+K0061,Kunde,m,39,45873.0,47.0,E3,75731.69,3. Quartal,Hessen
+K0606,Kunde,w,37,38116.0,29.0,E1,77480.16,3. Quartal,Nordrhein-Westfalen
+K0093,Kunde,m,34,52606.0,42.0,E2,83864.29,2. Quartal,Bayern
+K0719,Kunde,w,33,35069.0,29.0,E1,43110.27,3. Quartal,Berlin
+K0923,Kunde,m,43,56948.0,35.0,E2,67634.12,2. Quartal,Berlin
+K0783,Kunde,w,31,30362.0,31.0,E3,34904.28,2. Quartal,Niedersachsen
+K0281,Kunde,w,51,68806.0,61.0,E3,98128.97,3. Quartal,Sachsen
+K0825,Kunde,m,62,86770.0,63.0,E2,112809.13,2. Quartal,Berlin
+K0424,Kunde,m,63,83693.0,70.0,E3,119357.7,2. Quartal,Bayern
+K0345,Kunde,w,37,56641.0,50.0,E3,59783.06,2. Quartal,Bayern
+K0183,Kunde,m,61,60160.0,53.0,E2,100767.22,4. Quartal,Baden-Württemberg
+K0544,Kunde,m,34,46577.0,30.0,E1,71156.2,2. Quartal,Hessen
+K0838,Kunde,m,60,62903.0,47.0,E3,125573.59,4. Quartal,Brandenburg
+K0111,Kunde,m,30,34125.0,30.0,E1,46414.4,2. Quartal,Nordrhein-Westfalen
+K0405,Kunde,w,43,50963.0,34.0,E2,76275.31,2. Quartal,Thüringen
+K0598,Kunde,m,32,38008.0,17.0,E1,59823.29,2. Quartal,Berlin
+K0533,Kunde,m,41,53363.0,38.0,E3,75926.68,3. Quartal,Brandenburg
+K0486,Kunde,m,53,47966.0,39.0,E2,73902.32,4. Quartal,Nordrhein-Westfalen
+K0742,Kunde,m,32,45461.0,36.0,E1,69182.41,3. Quartal,Niedersachsen
+K0928,Kunde,w,47,55494.0,38.0,E3,83850.57,3. Quartal,Baden-Württemberg
+K0262,Kunde,w,47,55524.0,41.0,E3,67983.37,3. Quartal,Bayern
+K0495,Kunde,w,70,67872.0,44.0,E2,114545.55,2. Quartal,Baden-Württemberg
+K0550,Kunde,m,30,54381.0,42.0,E1,83223.78,3. Quartal,Thüringen
+K0727,Kunde,w,63,66597.0,40.0,E2,83837.24,3. Quartal,Baden-Württemberg
+K1003,Kunde,m,55,60489.0,47.0,E1,105741.8,2. Quartal,Bayern
+K0138,Kunde,m,42,53324.0,38.0,E2,79456.84,4. Quartal,Baden-Württemberg
+K0596,Kunde,w,60,60911.0,52.0,E2,97769.6,3. Quartal,Baden-Württemberg
+K0363,Kunde,m,62,74323.0,46.0,E3,103270.9,2. Quartal,Berlin
+K0896,Kunde,m,67,73888.0,51.0,E1,111202.84,4. Quartal,Baden-Württemberg
+K0653,Kunde,m,64,72974.0,36.0,E3,106325.73,4. Quartal,Thüringen
+K0667,Kunde,m,39,39225.0,29.0,E2,83313.68,4. Quartal,Niedersachsen
+K0671,Kunde,m,50,57036.0,40.0,E3,95823.72,4. Quartal,Hessen
+K0030,Kunde,m,44,52043.0,42.0,E1,72895.13,3. Quartal,Sachsen
+K0166,Kunde,,53,49798.0,39.0,E3,61329.51,2. Quartal,Nordrhein-Westfalen
+K0249,Kunde,w,62,96569.0,80.0,E3,140745.65,2. Quartal,Bayern
+K0308,Kunde,w,58,59308.0,50.0,E2,73667.3,2. Quartal,Hamburg
+K0785,Kunde,m,43,50456.0,34.0,E1,88108.0,2. Quartal,Bayern
+K0669,Kunde,m,48,61627.0,53.0,E1,82405.97,4. Quartal,Nordrhein-Westfalen
+K0337,Kunde,w,64,63436.0,45.0,E1,95562.13,4. Quartal,Baden-Württemberg
+K0868,Kunde,w,30,55391.0,39.0,E2,61951.79,2. Quartal,Brandenburg
+K0765,Kunde,m,38,54535.0,49.0,E3,79772.26,2. Quartal,Nordrhein-Westfalen
+K0452,Kunde,w,58,49680.0,43.0,E1,77792.44,4. Quartal,Sachsen
+K0410,Kunde,m,41,39800.0,45.0,E1,79421.65,2. Quartal,Niedersachsen
+K0675,Kunde,m,42,41390.0,34.0,E2,58786.52,4. Quartal,Hamburg
+K0583,Kunde,w,50,69342.0,42.0,E1,115292.51,2. Quartal,Niedersachsen
+K0066,Kunde,m,37,66398.0,46.0,E1,101131.52,2. Quartal,Nordrhein-Westfalen
+K0491,Kunde,m,42,59171.0,52.0,E2,85183.22,4. Quartal,Baden-Württemberg
+K0984,Kunde,w,41,42509.0,37.0,E1,61738.05,2. Quartal,Baden-Württemberg
+K0395,Kunde,m,34,24811.0,12.0,E2,57541.73,3. Quartal,Hamburg
+K0255,Kunde,m,69,76932.0,48.0,E3,133380.54,2. Quartal,Bayern
+K0800,Kunde,w,51,48813.0,28.0,E3,52577.91,3. Quartal,Sachsen
+K0313,Kunde,w,61,49390.0,33.0,E2,85180.08,2. Quartal,Thüringen
+K0888,Kunde,m,30,50998.0,38.0,E3,95539.65,3. Quartal,Baden-Württemberg
+K0222,Kunde,m,47,55841.0,60.0,E2,70169.26,4. Quartal,Baden-Württemberg
+K0236,Kunde,w,30,24933.0,26.0,E1,40285.18,2. Quartal,Hamburg
+K0436,Kunde,m,57,58882.0,48.0,E2,80802.02,2. Quartal,Berlin
+K0602,Kunde,m,41,49499.0,34.0,E1,77389.91,4. Quartal,Hamburg
+K0306,Kunde,w,66,82969.0,62.0,E2,138621.96,1. Quartal,Hessen
+K0479,Kunde,m,53,44034.0,40.0,E1,69020.15,3. Quartal,Hamburg
+K0650,Kunde,m,62,65422.0,48.0,E2,113261.61,3. Quartal,Bayern
+K1049,Kunde,m,56,84320.0,62.0,E3,104544.82,4. Quartal,Baden-Württemberg
+K0250,Kunde,w,53,63121.0,49.0,E1,82460.27,2. Quartal,Nordrhein-Westfalen
+K1038,Kunde,m,39,40699.0,34.0,E2,66612.75,2. Quartal,Niedersachsen
+K0584,Kunde,w,45,45230.0,32.0,E1,91201.91,4. Quartal,Nordrhein-Westfalen
+K0072,Kunde,m,47,56068.0,52.0,E2,88529.55,2. Quartal,Hamburg
+K0095,Kunde,m,70,94606.0,58.0,E3,139830.32,1. Quartal,Berlin
+K0034,Kunde,w,50,47571.0,39.0,E2,83365.24,2. Quartal,Baden-Württemberg
+K0722,Kunde,w,39,54801.0,42.0,E2,84900.44,2. Quartal,Baden-Württemberg
+K0260,Kunde,m,54,55785.0,38.0,E1,90085.01,3. Quartal,Berlin
+K0205,Kunde,w,35,32553.0,19.0,E1,66814.09,4. Quartal,Nordrhein-Westfalen
+K0778,Kunde,m,55,65084.0,38.0,E1,104045.73,3. Quartal,Baden-Württemberg
+K0694,Kunde,w,52,61228.0,55.0,E3,81411.98,2. Quartal,Nordrhein-Westfalen
+K0768,Kunde,m,59,78492.0,56.0,E3,122336.16,3. Quartal,Berlin
+K0078,Kunde,m,44,46659.0,36.0,E3,87048.58,4. Quartal,Bayern
+K0085,Kunde,m,37,48042.0,36.0,E1,54313.59,1. Quartal,Nordrhein-Westfalen
+K1064,Kunde,m,36,60066.0,36.0,E3,78126.13,3. Quartal,Baden-Württemberg
+K0083,Kunde,m,53,58050.0,37.0,E3,78625.3,3. Quartal,Niedersachsen
+K0828,Kunde,w,35,48079.0,39.0,E2,65670.65,2. Quartal,Niedersachsen
+K0527,Kunde,w,34,29899.0,24.0,E1,45878.08,4. Quartal,Bayern
+K0679,Kunde,m,61,56063.0,44.0,E1,98148.54,2. Quartal,Berlin
+K0922,Kunde,m,48,34459.0,43.0,E1,44237.57,4. Quartal,Hessen
+K0434,Kunde,w,45,47515.0,40.0,E1,66554.21,2. Quartal,Niedersachsen
+K0428,Kunde,m,61,68022.0,67.0,E1,77134.04,3. Quartal,Nordrhein-Westfalen
+K0536,Kunde,m,46,54548.0,58.0,E2,100672.01,4. Quartal,Nordrhein-Westfalen
+K0351,Kunde,w,57,65801.0,41.0,E2,110519.86,3. Quartal,Niedersachsen
+K0951,Kunde,w,36,36269.0,37.0,E2,49092.44,4. Quartal,Nordrhein-Westfalen
+K0006,Kunde,m,68,93315.0,69.0,E1,141822.38,2. Quartal,Baden-Württemberg
+K0311,Kunde,w,62,100769.0,71.0,E3,125018.41,2. Quartal,Niedersachsen
+K0549,Kunde,m,37,55129.0,53.0,E2,73887.77,3. Quartal,Nordrhein-Westfalen
+K0105,Kunde,m,66,62843.0,53.0,E2,113812.63,3. Quartal,Berlin
+K0098,Kunde,w,38,47861.0,37.0,E2,66834.88,3. Quartal,Hessen
+K0605,Kunde,w,45,46099.0,41.0,E1,84552.86,2. Quartal,Sachsen
+K0869,Kunde,w,55,64604.0,38.0,E2,69621.64,2. Quartal,Berlin
+K0315,Kunde,m,62,81002.0,54.0,E3,115409.9,2. Quartal,Bayern
+K0514,Kunde,w,45,46082.0,34.0,E1,78379.94,1. Quartal,Hamburg
+K1059,Kunde,m,58,75531.0,50.0,E2,94646.93,3. Quartal,Niedersachsen
+K0063,Kunde,m,43,37376.0,42.0,E1,63383.29,1. Quartal,Hessen
+K0282,Kunde,m,51,57821.0,43.0,E2,93565.3,2. Quartal,Nordrhein-Westfalen
+K0723,Kunde,m,46,44038.0,34.0,E1,72625.61,2. Quartal,Hessen
+K0267,Kunde,m,70,84497.0,69.0,E3,116193.41,2. Quartal,Baden-Württemberg
+K0561,Kunde,w,56,55688.0,49.0,E2,94116.03,2. Quartal,Nordrhein-Westfalen
+K0239,Kunde,m,66,65063.0,56.0,E3,106463.24,4. Quartal,Nordrhein-Westfalen
+K0430,Kunde,m,34,53286.0,40.0,E2,57023.34,4. Quartal,Bayern
+K0146,Kunde,w,57,42006.0,32.0,E1,50508.57,4. Quartal,Hessen
+K1031,Kunde,m,52,58873.0,39.0,E1,80225.35,3. Quartal,Bayern
+K0651,Kunde,m,63,73099.0,51.0,E2,118236.17,3. Quartal,Bayern
+K0623,Kunde,w,38,33873.0,28.0,E1,56924.35,2. Quartal,Bayern
+K0119,Kunde,w,43,43130.0,35.0,E1,61803.14,3. Quartal,Hessen
+K0676,Kunde,m,33,43936.0,45.0,E2,78850.36,2. Quartal,Berlin
+K0515,Kunde,m,34,39614.0,26.0,E1,56174.25,2. Quartal,Hessen
+K0251,Kunde,w,40,46710.0,38.0,E2,77768.25,4. Quartal,Berlin
+K1073,Kunde,m,30,45508.0,38.0,E1,64916.89,2. Quartal,Bayern
+K0286,Kunde,w,37,38717.0,34.0,E2,56575.12,2. Quartal,Bayern
+K0546,Kunde,m,66,98881.0,64.0,E3,131352.24,2. Quartal,Sachsen
+K0010,Kunde,m,40,43750.0,28.0,E1,67687.0,3. Quartal,Berlin
+K0458,Kunde,m,52,67475.0,37.0,E2,93897.2,1. Quartal,Niedersachsen
+K0197,Kunde,m,34,43470.0,41.0,E1,70250.0,1. Quartal,Nordrhein-Westfalen
+K0731,Kunde,m,40,39921.0,45.0,E3,65687.09,2. Quartal,Nordrhein-Westfalen
+K0371,Kunde,w,64,90952.0,61.0,E2,116583.47,2. Quartal,Nordrhein-Westfalen
+K0082,Kunde,m,38,46715.0,50.0,E1,101650.7,4. Quartal,Baden-Württemberg
+K0390,Kunde,m,54,75271.0,60.0,E3,122250.09,2. Quartal,Brandenburg
+K0529,Kunde,m,52,63079.0,46.0,E1,100733.46,1. Quartal,Hessen
+K0590,Kunde,m,48,63876.0,51.0,E2,90833.08,4. Quartal,Bayern
+K1086,Kunde,m,48,54835.0,52.0,E2,73324.94,4. Quartal,Brandenburg
+K0993,Kunde,w,49,69396.0,52.0,E2,86666.48,3. Quartal,Berlin
+K0240,Kunde,m,61,79130.0,49.0,E3,106664.4,3. Quartal,Thüringen
+K0414,Kunde,m,50,32462.0,30.0,E2,65554.28,4. Quartal,Brandenburg
+K0212,Kunde,w,55,54760.0,45.0,E1,86038.6,2. Quartal,Bayern
+K0859,Kunde,m,34,24264.0,19.0,E1,22580.44,4. Quartal,Berlin
+K0701,Kunde,w,68,61880.0,52.0,E3,87209.72,4. Quartal,Nordrhein-Westfalen
+K0576,Kunde,w,42,52370.0,48.0,E1,74270.35,2. Quartal,Bayern
+K0228,Kunde,m,52,90021.0,64.0,E1,124563.89,2. Quartal,Thüringen
+K1019,Kunde,m,58,80881.0,33.0,E3,102290.11,2. Quartal,Baden-Württemberg
+K0621,Kunde,m,56,68794.0,57.0,E2,108744.79,2. Quartal,Sachsen
+K0487,Kunde,m,52,53837.0,22.0,E1,64750.35,4. Quartal,Hamburg
+K0948,Kunde,m,35,48208.0,50.0,E2,78096.44,3. Quartal,Nordrhein-Westfalen
+K0178,Kunde,w,31,45328.0,39.0,E1,68156.01,2. Quartal,Hessen
+K1067,Kunde,m,70,82041.0,44.0,E3,106587.98,2. Quartal,Baden-Württemberg
+K0539,Kunde,m,42,34792.0,27.0,E3,71876.74,2. Quartal,Niedersachsen
+K0136,Kunde,m,58,73853.0,50.0,E2,97928.13,2. Quartal,Baden-Württemberg
+K0589,Kunde,w,64,81163.0,60.0,E3,124639.62,2. Quartal,Nordrhein-Westfalen
+K0450,Kunde,w,69,79059.0,53.0,E3,115211.31,2. Quartal,Niedersachsen
+K0808,Kunde,m,39,39831.0,41.0,E1,56301.97,2. Quartal,Nordrhein-Westfalen
+K1101,Kunde,m,39,37905.0,32.0,E1,61717.86,3. Quartal,Hessen
+K0008,Kunde,m,52,60315.0,40.0,E2,106359.99,2. Quartal,Berlin
+K0437,Kunde,w,61,64831.0,35.0,E2,113585.7,2. Quartal,Hessen
+K0156,Kunde,m,42,63657.0,40.0,E2,84814.32,4. Quartal,Hessen
+K0708,Kunde,m,44,14547.0,29.0,E1,28960.3,4. Quartal,Nordrhein-Westfalen
+K0358,Kunde,w,51,55866.0,35.0,E3,84704.04,2. Quartal,Baden-Württemberg
+K0645,Kunde,w,55,56358.0,49.0,E1,105656.62,4. Quartal,Hamburg
+K0224,Kunde,m,30,49623.0,42.0,E3,65451.53,2. Quartal,Nordrhein-Westfalen
+K0330,Kunde,m,46,67067.0,45.0,E1,88579.71,3. Quartal,Thüringen
+K0594,Kunde,w,43,49162.0,43.0,E3,84864.12,3. Quartal,Thüringen
+K0543,Kunde,w,31,33788.0,28.0,E2,67174.26,3. Quartal,Nordrhein-Westfalen
+K0929,Kunde,w,69,87922.0,54.0,E3,120453.26,2. Quartal,Niedersachsen
+K0555,Kunde,w,33,51920.0,38.0,E2,54310.26,2. Quartal,Baden-Württemberg
+K0683,Kunde,m,37,45690.0,34.0,E1,64971.82,3. Quartal,Baden-Württemberg
+K0747,Kunde,w,61,64150.0,47.0,E2,91908.79,1. Quartal,Niedersachsen
+K0845,Kunde,w,31,19138.0,37.0,E1,21471.65,4. Quartal,Sachsen
+K0990,Kunde,m,55,79452.0,49.0,E3,117307.67,4. Quartal,Bayern
+K0697,Kunde,m,50,42001.0,29.0,E1,69941.72,2. Quartal,Bayern
+K1066,Kunde,m,49,63355.0,45.0,E2,111931.58,2. Quartal,Berlin
+K0704,Kunde,m,67,73998.0,55.0,E3,111198.78,2. Quartal,Berlin
+K0558,Kunde,m,60,61297.0,39.0,E2,89077.09,2. Quartal,Baden-Württemberg
+K0932,Kunde,m,69,75241.0,44.0,E2,128050.39,2. Quartal,Nordrhein-Westfalen
+K1051,Kunde,m,56,79198.0,54.0,E3,85437.96,3. Quartal,Nordrhein-Westfalen
+K0441,Kunde,w,41,53509.0,37.0,E1,90805.35,2. Quartal,Bayern
+K1052,Kunde,w,46,64863.0,45.0,E3,101644.17,2. Quartal,Nordrhein-Westfalen
+K0847,Kunde,m,57,76586.0,45.0,E3,104976.08,3. Quartal,Hamburg
+K0801,Kunde,w,55,68214.0,47.0,E2,75900.15,4. Quartal,Niedersachsen
+K0164,Kunde,m,66,67497.0,55.0,E3,117195.91,2. Quartal,Nordrhein-Westfalen
+K0229,Kunde,w,60,49925.0,39.0,E2,84170.57,2. Quartal,Bayern
+K0786,Kunde,m,36,48447.0,45.0,E3,90879.99,2. Quartal,Brandenburg
+K0873,Kunde,m,40,46664.0,36.0,E1,59309.97,3. Quartal,Hessen
+K0213,Kunde,m,32,43819.0,47.0,E2,57548.45,4. Quartal,Sachsen
+K0915,Kunde,m,66,88070.0,53.0,E3,129089.55,2. Quartal,Bayern
+K0080,Kunde,m,54,54712.0,35.0,E1,92084.38,4. Quartal,Hessen
+K0149,Kunde,m,40,53774.0,37.0,E2,90227.44,3. Quartal,Bayern
+K0303,Kunde,m,35,44671.0,34.0,E1,58157.49,4. Quartal,Baden-Württemberg
+K0761,Kunde,w,63,47767.0,53.0,E2,81512.67,4. Quartal,Hamburg
+K0995,Kunde,m,39,46774.0,40.0,E1,93641.06,3. Quartal,Nordrhein-Westfalen
+K0738,Kunde,w,33,52554.0,34.0,E1,60796.8,3. Quartal,Niedersachsen
+K0718,Kunde,w,58,63385.0,41.0,E2,93077.19,3. Quartal,Baden-Württemberg
+K0044,Kunde,m,49,63769.0,41.0,E3,88665.28,4. Quartal,Sachsen
+K0969,Kunde,m,39,36057.0,32.0,E1,73098.28,2. Quartal,Nordrhein-Westfalen
+K0134,Kunde,w,68,80664.0,63.0,E2,122681.63,3. Quartal,Baden-Württemberg
+K0666,Kunde,m,66,62298.0,53.0,E1,88092.7,3. Quartal,Thüringen
+K0746,Kunde,m,58,48730.0,34.0,E3,87338.42,1. Quartal,Baden-Württemberg
+K0600,Kunde,w,52,60428.0,43.0,E3,102443.11,2. Quartal,Berlin
+K0312,Kunde,m,50,53438.0,50.0,E1,81140.06,3. Quartal,Brandenburg
+K0409,Kunde,w,34,25640.0,27.0,E1,59338.04,2. Quartal,Hamburg
+K1077,Kunde,m,52,59873.0,39.0,E3,76854.89,4. Quartal,Niedersachsen
+K0970,Kunde,m,34,47144.0,50.0,E1,76527.76,2. Quartal,Bayern
+K0678,Kunde,w,69,62333.0,32.0,E2,123546.58,2. Quartal,Berlin
+K0940,Kunde,m,54,64833.0,54.0,E1,93686.46,4. Quartal,Bayern
+K0979,Kunde,w,58,68532.0,51.0,E2,86666.09,3. Quartal,Hamburg
+K0971,Kunde,m,39,35523.0,36.0,E1,54246.76,3. Quartal,Baden-Württemberg
+K0001,Kunde,m,68,89437.0,62.0,E2,114481.9,2. Quartal,Sachsen
+K0423,Kunde,m,65,73513.0,43.0,E3,119578.06,4. Quartal,Baden-Württemberg
+K0361,Kunde,m,44,51181.0,33.0,E2,83060.06,1. Quartal,Niedersachsen
+K0383,Kunde,m,52,59011.0,45.0,E2,88150.0,2. Quartal,Berlin
+K0317,Kunde,w,47,60557.0,49.0,E1,96808.99,2. Quartal,Nordrhein-Westfalen
+K0926,Kunde,m,54,43811.0,45.0,E1,77794.39,2. Quartal,Nordrhein-Westfalen
+K0476,Kunde,w,39,45332.0,24.0,E3,77782.69,2. Quartal,Baden-Württemberg
+K0846,Kunde,w,49,56231.0,33.0,E2,67307.08,4. Quartal,Nordrhein-Westfalen
+K0965,Kunde,m,62,67502.0,43.0,E1,104564.5,3. Quartal,Sachsen
+K0530,Kunde,m,58,64297.0,56.0,E3,110338.33,3. Quartal,Bayern
+K0635,Kunde,m,31,31976.0,33.0,E1,45789.83,2. Quartal,Nordrhein-Westfalen
+K1065,Kunde,w,46,46549.0,43.0,E2,62984.61,4. Quartal,Berlin
+K0141,Kunde,m,51,56496.0,49.0,E1,78599.02,3. Quartal,Niedersachsen
+K0173,Kunde,m,68,57238.0,54.0,E3,84306.46,2. Quartal,Berlin
+K0451,Kunde,m,39,28981.0,28.0,E1,67912.67,2. Quartal,Berlin
+K0126,Kunde,w,42,49536.0,39.0,E2,62506.44,2. Quartal,Bayern
+K0542,Kunde,m,56,61743.0,41.0,E1,100812.37,3. Quartal,Berlin
+K0562,Kunde,m,39,31451.0,27.0,E1,41728.39,2. Quartal,Sachsen
+K0661,Kunde,m,34,41276.0,33.0,E1,53961.89,2. Quartal,Sachsen
+K1048,Kunde,w,47,48752.0,38.0,E2,78207.23,4. Quartal,Bayern
+K0091,Kunde,m,64,63338.0,39.0,E2,92846.99,2. Quartal,Bayern
+K1070,Kunde,w,57,68664.0,58.0,E1,118552.48,2. Quartal,Niedersachsen
+K0182,Kunde,w,66,83118.0,67.0,E3,113976.31,1. Quartal,Sachsen
+K0364,Kunde,w,37,54403.0,47.0,E3,53690.36,2. Quartal,Brandenburg
+K0559,Kunde,m,48,58620.0,52.0,E3,95311.77,2. Quartal,Hessen
+K0275,Kunde,w,37,44398.0,39.0,E2,57851.21,4. Quartal,Brandenburg
+K0835,Kunde,m,53,47554.0,37.0,E3,85424.37,2. Quartal,Niedersachsen
+K0252,Kunde,w,37,42600.0,25.0,E1,65540.55,3. Quartal,Nordrhein-Westfalen
+K0070,Kunde,w,50,59505.0,37.0,E2,78150.23,2. Quartal,Sachsen
+K0292,Kunde,m,62,47766.0,47.0,E2,91150.03,2. Quartal,Sachsen
+K0132,Kunde,w,66,73170.0,54.0,E2,109500.77,2. Quartal,Baden-Württemberg
+K0301,Kunde,andere,59,81225.0,57.0,E3,111772.36,2. Quartal,Nordrhein-Westfalen
+K0567,Kunde,w,42,47660.0,46.0,E3,69281.41,3. Quartal,Baden-Württemberg
+K0327,Kunde,m,56,45484.0,35.0,E1,68018.6,2. Quartal,Bayern
+K0848,Kunde,m,40,33908.0,45.0,E1,69238.65,2. Quartal,Bayern
+K0145,Kunde,m,57,65311.0,47.0,E3,87351.94,2. Quartal,Nordrhein-Westfalen
+K0500,Kunde,w,51,59485.0,49.0,E2,96388.95,3. Quartal,Nordrhein-Westfalen
+K0905,Kunde,m,41,50613.0,35.0,E2,81875.89,1. Quartal,Bayern
+K1095,Kunde,m,30,47053.0,39.0,E1,85990.12,4. Quartal,Bayern
+K0496,Kunde,m,59,69178.0,48.0,E2,80282.57,4. Quartal,Brandenburg
+K0339,Kunde,m,53,62497.0,47.0,E2,95797.57,3. Quartal,Bayern
+K0804,Kunde,m,42,58398.0,38.0,E2,86430.54,2. Quartal,Bayern
+K0165,Kunde,w,62,84681.0,50.0,E3,115423.31,2. Quartal,Hamburg
+K0029,Kunde,m,45,47574.0,33.0,E2,87328.47,3. Quartal,Nordrhein-Westfalen
+K0517,Kunde,m,41,46486.0,40.0,E1,79483.05,2. Quartal,Baden-Württemberg
+K0194,Kunde,m,46,58938.0,57.0,E2,78516.69,3. Quartal,Nordrhein-Westfalen
+K0693,Kunde,m,46,37812.0,39.0,E1,67614.67,4. Quartal,Nordrhein-Westfalen
+K0170,Kunde,m,53,70392.0,59.0,E3,89785.65,2. Quartal,Bayern
+K0599,Kunde,w,45,45742.0,39.0,E2,83874.88,3. Quartal,Thüringen
+K0174,Kunde,m,31,39454.0,39.0,E1,65981.74,2. Quartal,Bayern
+K0519,Kunde,m,50,57994.0,49.0,E2,93543.59,3. Quartal,Baden-Württemberg
+K0853,Kunde,m,67,79290.0,46.0,E1,122565.05,3. Quartal,Thüringen
+K0592,Kunde,w,47,45296.0,40.0,E1,69529.36,2. Quartal,Sachsen
+K0492,Kunde,w,52,66942.0,50.0,E2,90579.78,2. Quartal,Niedersachsen
+K0074,Kunde,m,55,63491.0,39.0,E2,115135.5,3. Quartal,Berlin
+K0920,Kunde,m,66,65032.0,53.0,E3,96232.71,2. Quartal,Nordrhein-Westfalen
+K0235,Kunde,w,31,60920.0,49.0,E3,92362.74,2. Quartal,Bayern
+K0215,Kunde,m,49,67407.0,49.0,E1,96728.92,4. Quartal,Nordrhein-Westfalen
+K0793,Kunde,w,54,60464.0,55.0,E1,79245.06,2. Quartal,Baden-Württemberg
+K0133,Kunde,w,52,80319.0,51.0,E3,124885.27,4. Quartal,Baden-Württemberg
+K0616,Kunde,m,57,75502.0,61.0,E3,112788.96,2. Quartal,Baden-Württemberg
+K0788,Kunde,m,52,50014.0,38.0,E2,86755.55,3. Quartal,Berlin
+K0186,Kunde,m,48,31841.0,28.0,E1,58334.15,3. Quartal,Brandenburg
+K0042,Kunde,m,55,54161.0,36.0,E2,104859.86,2. Quartal,Nordrhein-Westfalen
+K0109,Kunde,w,56,74257.0,49.0,E3,110427.22,1. Quartal,Baden-Württemberg
+K0712,Kunde,w,62,60595.0,36.0,E2,101207.94,3. Quartal,Sachsen
+K1093,Kunde,m,67,89170.0,76.0,E2,123408.48,2. Quartal,Hamburg
+K0875,Kunde,m,42,45845.0,42.0,E1,97820.78,3. Quartal,Baden-Württemberg
+K0484,Kunde,w,68,89120.0,55.0,E3,135200.0,4. Quartal,Berlin
+K0469,Kunde,m,33,49726.0,41.0,E2,71847.89,4. Quartal,Thüringen
+K0025,Kunde,w,51,50677.0,34.0,E2,83785.2,2. Quartal,Niedersachsen
+K0924,Kunde,w,55,66128.0,43.0,E3,117054.79,2. Quartal,Berlin
+K0910,Kunde,m,51,68102.0,52.0,E3,101089.53,1. Quartal,Nordrhein-Westfalen
+K0895,Kunde,m,53,80451.0,58.0,E2,112949.61,4. Quartal,Hamburg
+K0908,Kunde,m,30,30285.0,22.0,E1,49774.03,2. Quartal,Nordrhein-Westfalen
+K0367,Kunde,m,33,45996.0,29.0,E2,70449.86,4. Quartal,Brandenburg
+K0794,Kunde,m,66,78982.0,45.0,E2,116107.59,2. Quartal,Bayern
+K0384,Kunde,m,38,33666.0,13.0,E1,50494.07,2. Quartal,Nordrhein-Westfalen
+K0455,Kunde,w,60,70713.0,48.0,E2,93794.62,1. Quartal,Brandenburg
+K0265,Kunde,m,64,79102.0,54.0,E3,120716.52,1. Quartal,Nordrhein-Westfalen
+K0781,Kunde,m,43,56035.0,51.0,E1,83116.94,4. Quartal,Bayern
+K0818,Kunde,m,70,90512.0,56.0,E3,133444.42,3. Quartal,Bayern
+K0445,Kunde,w,66,82404.0,55.0,E3,113241.16,2. Quartal,Nordrhein-Westfalen
+K0396,Kunde,m,51,62402.0,55.0,E3,106473.29,3. Quartal,Nordrhein-Westfalen
+K0177,Kunde,m,46,62212.0,42.0,E2,81404.44,4. Quartal,Nordrhein-Westfalen
+K0019,Kunde,w,59,72303.0,44.0,E2,101687.09,3. Quartal,Bayern
+K0595,Kunde,m,44,44135.0,50.0,E1,90278.48,2. Quartal,Sachsen
+K0724,Kunde,m,49,62203.0,43.0,E1,85122.57,3. Quartal,Hessen
+K0062,Kunde,m,65,65989.0,44.0,E3,102710.38,2. Quartal,Nordrhein-Westfalen
+K0273,Kunde,w,50,59828.0,46.0,E2,87813.11,2. Quartal,Baden-Württemberg
+K1037,Kunde,m,38,47762.0,39.0,E1,72194.21,4. Quartal,Thüringen
+K0279,Kunde,w,62,56784.0,38.0,E3,80874.62,3. Quartal,Niedersachsen
+K0707,Kunde,m,59,64556.0,52.0,E2,115909.26,2. Quartal,Bayern
+K0369,Kunde,w,61,72628.0,43.0,E3,107586.29,4. Quartal,Niedersachsen
+K0744,Kunde,w,32,26860.0,26.0,E1,37058.29,3. Quartal,Berlin
+K0978,Kunde,m,44,49072.0,43.0,E2,68862.67,2. Quartal,Bayern
+K0823,Kunde,m,35,48297.0,37.0,E2,62369.93,2. Quartal,Baden-Württemberg
+K0548,Kunde,m,48,60494.0,39.0,E3,85749.76,4. Quartal,Nordrhein-Westfalen
+K0737,Kunde,m,37,41869.0,29.0,E1,62593.9,3. Quartal,Bayern
+K0756,Kunde,m,30,45604.0,35.0,E1,69872.12,3. Quartal,Bayern
+K0457,Kunde,m,64,74222.0,50.0,E3,108488.51,4. Quartal,Bayern
+K0394,Kunde,m,68,72078.0,51.0,E2,93935.85,3. Quartal,Baden-Württemberg
+K0831,Kunde,m,59,65278.0,42.0,E2,91121.52,4. Quartal,Nordrhein-Westfalen
+K1006,Kunde,m,47,46708.0,31.0,E1,70719.18,4. Quartal,Nordrhein-Westfalen
+K0376,Kunde,w,48,47062.0,34.0,E2,79825.38,2. Quartal,Baden-Württemberg
+K0413,Kunde,m,55,66738.0,52.0,E1,120215.5,3. Quartal,Nordrhein-Westfalen
+K0075,Kunde,w,54,56229.0,40.0,E3,97038.57,3. Quartal,Nordrhein-Westfalen
+K1033,Kunde,m,69,76330.0,47.0,E3,120784.01,2. Quartal,Sachsen
+K0501,Kunde,m,42,53660.0,37.0,E3,77862.18,4. Quartal,Bayern
+K0674,Kunde,w,30,31727.0,20.0,E1,62658.18,2. Quartal,Berlin
+K0115,Kunde,m,32,42406.0,39.0,E2,45125.2,2. Quartal,Nordrhein-Westfalen
+K0418,Kunde,m,59,64816.0,54.0,E2,102801.02,1. Quartal,Baden-Württemberg
+K0090,Kunde,,64,83452.0,62.0,E3,133180.7,2. Quartal,Niedersachsen
+K1057,Kunde,m,53,77106.0,51.0,E2,111716.45,4. Quartal,Nordrhein-Westfalen
+K0499,Kunde,m,54,43162.0,34.0,E1,81298.0,2. Quartal,Niedersachsen
+K0733,Kunde,m,45,42110.0,33.0,E3,67204.52,1. Quartal,Baden-Württemberg
+K0740,Kunde,m,33,27264.0,15.0,E1,49485.54,2. Quartal,Brandenburg
+K0012,Kunde,w,65,73235.0,40.0,E1,115599.05,4. Quartal,Baden-Württemberg
+K0397,Kunde,m,58,70268.0,48.0,E2,103403.43,2. Quartal,Nordrhein-Westfalen
+K0668,Kunde,w,39,35011.0,32.0,E1,57408.01,3. Quartal,Sachsen
+K0946,Kunde,m,69,61320.0,50.0,E1,113385.31,2. Quartal,Hessen
+K0043,Kunde,m,31,26047.0,24.0,E2,63491.25,4. Quartal,Baden-Württemberg
+K0168,Kunde,m,61,76325.0,45.0,E2,116425.9,3. Quartal,Sachsen
+K0417,Kunde,m,62,84673.0,57.0,E3,118973.65,2. Quartal,Brandenburg
+K0577,Kunde,w,57,77726.0,56.0,E3,125762.16,2. Quartal,Thüringen
+K0904,Kunde,w,63,80199.0,70.0,E3,138366.29,3. Quartal,Baden-Württemberg
+K0427,Kunde,w,48,77759.0,42.0,E2,130352.49,4. Quartal,Baden-Württemberg
+K0545,Kunde,m,58,63366.0,49.0,E2,104762.36,2. Quartal,Baden-Württemberg
+K1034,Kunde,w,44,62396.0,43.0,E3,94641.94,2. Quartal,Niedersachsen
+K1084,Kunde,m,45,45825.0,42.0,E1,80681.1,4. Quartal,Baden-Württemberg
+K0844,Kunde,m,35,35242.0,34.0,E1,63070.96,3. Quartal,Baden-Württemberg
+K0741,Kunde,m,54,72410.0,53.0,E1,117491.52,3. Quartal,Sachsen
+K0258,Kunde,w,54,49596.0,40.0,E2,68169.84,2. Quartal,Hamburg
+K0336,Kunde,m,55,50959.0,46.0,E2,88240.21,3. Quartal,Niedersachsen
+K0016,Kunde,m,51,47883.0,45.0,E3,90273.18,2. Quartal,Berlin
+K0758,Kunde,w,70,89117.0,63.0,E3,128700.13,3. Quartal,Baden-Württemberg
+K0325,Kunde,,52,66602.0,45.0,E1,98756.07,3. Quartal,Bayern
+K0913,Kunde,w,40,56643.0,35.0,E2,96334.06,2. Quartal,Baden-Württemberg
+K0906,Kunde,m,64,92461.0,66.0,E3,105443.46,2. Quartal,Nordrhein-Westfalen
+K0223,Kunde,m,69,83089.0,42.0,E3,136022.46,3. Quartal,Bayern
+K0180,Kunde,w,57,75347.0,49.0,E3,111539.65,2. Quartal,Berlin
+K0100,Kunde,w,41,63780.0,47.0,E2,90449.48,2. Quartal,Niedersachsen
+K0522,Kunde,m,45,38876.0,45.0,E1,78038.11,2. Quartal,Nordrhein-Westfalen
+K0023,Kunde,m,62,75575.0,50.0,E3,124516.56,3. Quartal,Nordrhein-Westfalen
+K0357,Kunde,m,54,51135.0,36.0,E2,95898.4,3. Quartal,Nordrhein-Westfalen
+K0802,Kunde,w,54,71828.0,54.0,E1,99915.01,3. Quartal,Nordrhein-Westfalen
+K1025,Kunde,m,52,58284.0,43.0,E1,93481.79,1. Quartal,Nordrhein-Westfalen
+K0612,Kunde,m,57,62292.0,46.0,E1,99289.0,2. Quartal,Nordrhein-Westfalen
+K1071,Kunde,w,69,85191.0,55.0,E3,134143.64,4. Quartal,Nordrhein-Westfalen
+K0341,Kunde,w,36,28194.0,33.0,E1,33483.78,2. Quartal,Baden-Württemberg
+K0432,Kunde,w,45,45178.0,43.0,E1,70342.95,4. Quartal,Sachsen
+K0852,Kunde,w,59,70484.0,58.0,E3,107496.17,4. Quartal,Brandenburg
+K0991,Kunde,m,56,79765.0,59.0,E3,117216.16,3. Quartal,Niedersachsen
+K0204,Kunde,m,38,38681.0,36.0,E3,65930.74,4. Quartal,Nordrhein-Westfalen
+K0760,Kunde,w,55,53760.0,33.0,E2,93912.15,1. Quartal,Bayern
+K0094,Kunde,w,68,83716.0,53.0,E2,125611.48,2. Quartal,Bayern
+K1039,Kunde,w,55,62026.0,61.0,E1,79649.63,2. Quartal,Baden-Württemberg
+K0069,Kunde,m,69,71612.0,42.0,E3,116360.51,2. Quartal,Berlin
+K0751,Kunde,w,47,60658.0,39.0,E1,87172.44,4. Quartal,Hessen
+K0285,Kunde,w,67,87141.0,65.0,E3,147149.94,3. Quartal,Berlin
+K1060,Kunde,m,51,66558.0,54.0,E2,115445.45,4. Quartal,Sachsen
+K0435,Kunde,w,31,28390.0,29.0,E1,59963.88,2. Quartal,Baden-Württemberg
+K0154,Kunde,w,30,14993.0,34.0,E2,33678.17,3. Quartal,Baden-Württemberg
+K0076,Kunde,w,70,86939.0,67.0,E3,132147.29,2. Quartal,Hamburg
+K0876,Kunde,w,32,43734.0,34.0,E3,49055.81,4. Quartal,Nordrhein-Westfalen
+K0581,Kunde,m,35,39852.0,35.0,E1,63972.97,4. Quartal,Bayern
+K0447,Kunde,m,32,30856.0,18.0,E2,27934.83,2. Quartal,Nordrhein-Westfalen
+K0189,Kunde,w,61,73383.0,49.0,E1,105062.59,2. Quartal,Baden-Württemberg
+K0272,Kunde,m,43,54023.0,36.0,E1,67446.84,1. Quartal,Sachsen
+K0237,Kunde,m,41,62190.0,46.0,E1,72016.19,3. Quartal,Baden-Württemberg
+K0488,Kunde,w,61,72690.0,55.0,E3,101692.85,3. Quartal,Hessen
+K1068,Kunde,m,49,56341.0,45.0,E3,83125.26,3. Quartal,Baden-Württemberg
+K0560,Kunde,m,68,76627.0,59.0,E3,106279.31,4. Quartal,Nordrhein-Westfalen
+K0118,Kunde,w,55,51515.0,51.0,E1,78247.78,3. Quartal,Thüringen
+K0884,Kunde,w,42,44684.0,39.0,E1,87308.31,2. Quartal,Baden-Württemberg
+K0972,Kunde,w,62,79791.0,48.0,E3,101275.87,3. Quartal,Nordrhein-Westfalen
+K0513,Kunde,m,48,67677.0,42.0,E3,94002.32,3. Quartal,Baden-Württemberg
+K0634,Kunde,m,54,42499.0,45.0,E1,75331.36,2. Quartal,Sachsen
+K0662,Kunde,m,67,94092.0,63.0,E3,135212.01,3. Quartal,Bayern
+K0959,Kunde,m,65,59789.0,45.0,E2,96988.98,4. Quartal,Niedersachsen
+K0715,Kunde,m,59,68591.0,50.0,E3,85536.41,2. Quartal,Berlin
+K0127,Kunde,m,61,83098.0,53.0,E2,116002.86,2. Quartal,Baden-Württemberg
+K0117,Kunde,w,34,39181.0,39.0,E3,41898.43,2. Quartal,Baden-Württemberg
+K0474,Kunde,m,50,65573.0,40.0,E2,99556.57,2. Quartal,Bayern
+K0829,Kunde,m,35,58918.0,57.0,E2,82500.37,3. Quartal,Nordrhein-Westfalen
+K0058,Kunde,m,47,57101.0,43.0,E1,79106.97,1. Quartal,Sachsen
+K0604,Kunde,w,61,63590.0,34.0,E1,86929.76,3. Quartal,Baden-Württemberg
+K0810,Kunde,m,70,68456.0,51.0,E2,111312.94,2. Quartal,Nordrhein-Westfalen
+K0657,Kunde,m,57,81401.0,49.0,E2,113014.09,2. Quartal,Bayern
+K0759,Kunde,m,41,49301.0,49.0,E2,68579.84,2. Quartal,Nordrhein-Westfalen
+K0106,Kunde,m,64,75171.0,53.0,E1,112055.97,4. Quartal,Nordrhein-Westfalen
+K0636,Kunde,m,39,45869.0,32.0,E1,80389.23,3. Quartal,Baden-Württemberg
+K0370,Kunde,w,59,55669.0,31.0,E3,84097.56,2. Quartal,Baden-Württemberg
+K0269,Kunde,m,62,63275.0,38.0,E2,110109.58,2. Quartal,Bayern
+K0656,Kunde,w,35,51440.0,50.0,E2,76009.29,1. Quartal,Nordrhein-Westfalen
+K0047,Kunde,m,37,45467.0,43.0,E1,75752.08,2. Quartal,Niedersachsen
+K0350,Kunde,m,44,47183.0,34.0,E2,70636.85,2. Quartal,Baden-Württemberg
+K0196,Kunde,m,53,70100.0,54.0,E1,107089.66,2. Quartal,Hessen
+K0103,Kunde,m,52,69175.0,54.0,E2,103778.57,2. Quartal,Hessen
+K0992,Kunde,w,34,16069.0,20.0,E2,36929.31,2. Quartal,Nordrhein-Westfalen
+K0947,Kunde,m,68,54974.0,42.0,E2,83002.22,4. Quartal,Nordrhein-Westfalen
+K0916,Kunde,m,43,58063.0,45.0,E1,93120.95,3. Quartal,Baden-Württemberg
+K0882,Kunde,w,39,42008.0,45.0,E1,69244.54,3. Quartal,Baden-Württemberg
+K0264,Kunde,w,31,31826.0,20.0,E1,61856.99,2. Quartal,Baden-Württemberg
+K1062,Kunde,w,57,66921.0,57.0,E2,95988.37,2. Quartal,Bayern
+K0444,Kunde,m,62,84548.0,58.0,E3,110128.73,4. Quartal,Bayern
+K0811,Kunde,w,47,69003.0,46.0,E2,102390.57,2. Quartal,Baden-Württemberg
+K0878,Kunde,m,35,40901.0,49.0,E1,66275.03,2. Quartal,Sachsen
+K0305,Kunde,m,70,84543.0,60.0,E2,128417.08,3. Quartal,Baden-Württemberg
+K0342,Kunde,w,65,88138.0,58.0,E3,123538.59,2. Quartal,Baden-Württemberg
+K1002,Kunde,w,41,38996.0,28.0,E1,66237.4,2. Quartal,Bayern
+K0314,Kunde,w,52,68820.0,45.0,E2,88926.82,2. Quartal,Nordrhein-Westfalen
+K0150,Kunde,w,57,57191.0,53.0,E2,96831.38,3. Quartal,Hessen
+K0125,Kunde,m,55,67004.0,51.0,E3,114150.05,4. Quartal,Hamburg
+K0937,Kunde,m,52,66760.0,45.0,E3,103242.45,2. Quartal,Bayern
+K0977,Kunde,m,53,53504.0,42.0,E1,98914.66,2. Quartal,Nordrhein-Westfalen
+K0665,Kunde,w,66,82882.0,56.0,E3,127752.43,4. Quartal,Nordrhein-Westfalen
+K0051,Kunde,w,65,70352.0,49.0,E3,92584.18,2. Quartal,Sachsen
+K0354,Kunde,m,61,65481.0,44.0,E3,95229.38,3. Quartal,Bayern
+K1061,Kunde,m,55,51720.0,34.0,E2,98714.27,3. Quartal,Niedersachsen
+K0143,Kunde,w,31,36296.0,31.0,E1,35482.61,3. Quartal,Nordrhein-Westfalen
+K0471,Kunde,w,58,65705.0,57.0,E2,102678.3,4. Quartal,Sachsen
+K0654,Kunde,m,30,23521.0,24.0,E1,24543.56,2. Quartal,Berlin
+K0400,Kunde,w,55,67168.0,57.0,E2,95526.72,4. Quartal,Bayern
+K0754,Kunde,m,50,59847.0,43.0,E2,95607.73,2. Quartal,Nordrhein-Westfalen
+K0321,Kunde,m,69,69084.0,41.0,E2,107414.81,4. Quartal,Thüringen
+K0020,Kunde,w,67,78468.0,47.0,E3,123598.99,3. Quartal,Baden-Württemberg
+K0685,Kunde,m,55,77056.0,54.0,E3,118343.37,2. Quartal,Bayern
+K0962,Kunde,w,62,80910.0,59.0,E3,108522.61,2. Quartal,Bayern
+K0941,Kunde,m,46,46834.0,47.0,E1,71854.37,2. Quartal,Baden-Württemberg
+K0999,Kunde,m,37,50552.0,45.0,E2,83913.36,3. Quartal,Hessen
+K0408,Kunde,m,59,79812.0,50.0,E3,112833.38,4. Quartal,Sachsen
+K0538,Kunde,m,36,41243.0,31.0,E1,55677.0,2. Quartal,Hamburg
+K0953,Kunde,m,44,39771.0,32.0,E1,72076.48,3. Quartal,Baden-Württemberg
+K0966,Kunde,w,33,57513.0,44.0,E1,62722.06,3. Quartal,Bayern
+K0039,Kunde,m,120,61857.0,52.0,E3,104214.07,2. Quartal,Baden-Württemberg
+K0176,Kunde,w,66,61785.0,52.0,E3,108131.17,4. Quartal,Sachsen
+K0246,Kunde,m,32,40729.0,33.0,E1,54787.08,4. Quartal,Baden-Württemberg
+K0985,Kunde,m,31,30097.0,26.0,E2,59710.03,2. Quartal,Hessen
+K0803,Kunde,m,46,47322.0,34.0,E3,73162.63,4. Quartal,Baden-Württemberg
+K0901,Kunde,w,43,35922.0,27.0,E2,51533.78,2. Quartal,Hessen
+K1054,Kunde,m,54,85929.0,66.0,E2,129836.57,2. Quartal,Hessen
+K0155,Kunde,w,56,73496.0,47.0,E2,94040.73,2. Quartal,Niedersachsen
+K0639,Kunde,w,62,76582.0,61.0,E2,124774.93,3. Quartal,Bayern
+K0663,Kunde,m,32,45882.0,45.0,E2,78435.1,2. Quartal,Baden-Württemberg
+K0288,Kunde,w,56,58547.0,60.0,E2,99077.0,3. Quartal,Berlin
+K0626,Kunde,m,42,56364.0,50.0,E2,66173.96,3. Quartal,Nordrhein-Westfalen
+K0686,Kunde,w,63,66387.0,44.0,E2,112799.7,2. Quartal,Niedersachsen
+K0880,Kunde,m,34,43401.0,36.0,E1,58491.97,3. Quartal,Baden-Württemberg
+K0570,Kunde,w,57,40164.0,46.0,E2,77779.65,2. Quartal,Hessen
+K0890,Kunde,m,38,35130.0,51.0,E2,52189.58,4. Quartal,Hessen
+K0018,Kunde,w,53,55741.0,41.0,E3,83296.61,3. Quartal,Berlin
+K0128,Kunde,m,68,93769.0,42.0,E2,137923.28,4. Quartal,Bayern
+K0323,Kunde,w,61,67757.0,47.0,E3,107610.75,3. Quartal,Nordrhein-Westfalen
+K0256,Kunde,m,49,35194.0,28.0,E1,65668.36,2. Quartal,Nordrhein-Westfalen
+K0790,Kunde,,67,91461.0,66.0,E1,131748.07,4. Quartal,Berlin
+K1087,Kunde,w,47,40566.0,30.0,E1,54913.08,3. Quartal,Hamburg
+K0191,Kunde,m,61,68606.0,41.0,E2,99514.15,4. Quartal,Bayern
+K0116,Kunde,m,30,45256.0,37.0,E1,62326.68,1. Quartal,Bayern
+K1081,Kunde,w,58,60549.0,44.0,E2,95376.05,2. Quartal,Nordrhein-Westfalen
+K1013,Kunde,m,34,40849.0,36.0,E1,60157.5,3. Quartal,Bayern
+K0607,Kunde,m,67,80824.0,52.0,E3,132575.6,3. Quartal,Baden-Württemberg
+K0181,Kunde,w,52,63832.0,35.0,E2,84810.82,2. Quartal,Berlin
+K0302,Kunde,m,58,48580.0,32.0,E2,77722.17,2. Quartal,Baden-Württemberg
+K0907,Kunde,w,64,71888.0,49.0,E2,108277.84,4. Quartal,Baden-Württemberg
+K0854,Kunde,m,31,29275.0,30.0,E1,51628.74,2. Quartal,Hessen
+K0867,Kunde,m,41,39563.0,39.0,E1,78550.75,3. Quartal,Baden-Württemberg
+K0821,Kunde,m,55,59442.0,36.0,E2,88964.7,2. Quartal,Sachsen
+K0797,Kunde,w,68,67429.0,54.0,E1,100668.95,2. Quartal,Bayern
+K0518,Kunde,m,54,71244.0,51.0,E2,92301.85,3. Quartal,Baden-Württemberg
+K0373,Kunde,m,45,50903.0,52.0,E1,79988.48,3. Quartal,Baden-Württemberg
+K0046,Kunde,w,36,69703.0,50.0,E3,86119.52,2. Quartal,Niedersachsen
+K0477,Kunde,m,66,76920.0,53.0,E3,113661.11,2. Quartal,Hamburg
+K0158,Kunde,m,32,52664.0,53.0,E3,72598.33,3. Quartal,Baden-Württemberg
+K0891,Kunde,m,46,58260.0,43.0,E2,104933.18,2. Quartal,Bayern
+K0172,Kunde,w,41,59921.0,40.0,E2,111734.31,2. Quartal,Nordrhein-Westfalen
+K0017,Kunde,m,31,42377.0,31.0,E1,69094.76,2. Quartal,Bayern
+K0512,Kunde,w,60,64260.0,33.0,E2,95392.37,2. Quartal,Hessen
+K0049,Kunde,m,43,42342.0,37.0,E1,66374.97,2. Quartal,Thüringen
+K0192,Kunde,m,33,30037.0,28.0,E1,62787.47,4. Quartal,Baden-Württemberg
+K1000,Kunde,m,52,84942.0,49.0,E2,110785.84,4. Quartal,Nordrhein-Westfalen
+K0516,Kunde,w,64,84143.0,42.0,E2,106701.56,2. Quartal,Bayern
+K1102,Kunde,m,39,40159.0,37.0,E2,67170.69,3. Quartal,Niedersachsen
+K0822,Kunde,m,63,71039.0,48.0,E3,98163.51,4. Quartal,Thüringen
+K0481,Kunde,w,64,64626.0,55.0,E3,113550.22,4. Quartal,Sachsen
+K0284,Kunde,m,67,93757.0,54.0,E3,134096.72,2. Quartal,Berlin
+K0860,Kunde,m,35,52473.0,57.0,E3,86012.47,1. Quartal,Nordrhein-Westfalen
+K0787,Kunde,m,32,47570.0,38.0,E2,82420.11,2. Quartal,Hessen
+K0226,Kunde,w,57,73261.0,52.0,E1,95081.32,3. Quartal,Baden-Württemberg
+K0027,Kunde,m,56,61920.0,49.0,E3,94455.39,2. Quartal,Nordrhein-Westfalen
+K0933,Kunde,w,43,70080.0,48.0,E2,94723.69,2. Quartal,Baden-Württemberg
+K0438,Kunde,m,56,74505.0,50.0,E3,103566.8,2. Quartal,Baden-Württemberg
+K1075,Kunde,m,42,70246.0,44.0,E2,94369.73,4. Quartal,Sachsen
+K0365,Kunde,m,34,24647.0,26.0,E1,49746.45,3. Quartal,Sachsen
+K0230,Kunde,w,59,61009.0,40.0,E2,103904.6,3. Quartal,Baden-Württemberg
+K0038,Kunde,m,33,41309.0,25.0,E1,82824.09,4. Quartal,Baden-Württemberg
+K0670,Kunde,m,46,62109.0,50.0,E3,79387.46,2. Quartal,Nordrhein-Westfalen
+K0750,Kunde,m,34,45499.0,40.0,E1,58717.86,3. Quartal,Nordrhein-Westfalen
+K1088,Kunde,m,30,37341.0,32.0,E1,41316.33,2. Quartal,Bayern
+K0375,Kunde,m,59,56937.0,55.0,E2,109491.66,2. Quartal,Berlin
+K0470,Kunde,w,40,41023.0,49.0,E1,59175.54,3. Quartal,Nordrhein-Westfalen
+K1089,Kunde,m,43,53520.0,44.0,E2,94866.27,3. Quartal,Sachsen
+K0688,Kunde,m,41,31809.0,27.0,E1,44588.0,4. Quartal,Sachsen
+K1012,Kunde,m,33,43075.0,37.0,E1,60255.17,4. Quartal,Nordrhein-Westfalen
+K0842,Kunde,m,53,43943.0,35.0,E1,71806.29,2. Quartal,Niedersachsen
+K0870,Kunde,w,43,48335.0,42.0,E2,68096.85,2. Quartal,Hessen
+K0195,Kunde,m,67,72430.0,43.0,E2,116130.92,2. Quartal,Berlin
+K1043,Kunde,w,55,52440.0,41.0,E1,73482.49,2. Quartal,Hessen
+K1027,Kunde,w,66,79684.0,44.0,E2,111685.27,2. Quartal,Bayern
+K0504,Kunde,m,41,49106.0,35.0,E2,60659.78,4. Quartal,Baden-Württemberg
+K1090,Kunde,w,31,32891.0,34.0,E1,59486.79,2. Quartal,Bayern
+K0988,Kunde,w,65,79806.0,69.0,E3,124673.13,3. Quartal,Berlin
+K0580,Kunde,w,67,93933.0,61.0,E1,124053.4,3. Quartal,Baden-Württemberg
+K0161,Kunde,m,37,45011.0,38.0,E1,63758.96,2. Quartal,Berlin
+K0681,Kunde,w,57,68984.0,41.0,E1,81325.05,1. Quartal,Berlin
+K1041,Kunde,m,64,70698.0,45.0,E2,118855.24,2. Quartal,Brandenburg
+K0163,Kunde,w,38,49724.0,33.0,E3,69448.24,2. Quartal,Nordrhein-Westfalen
+K0706,Kunde,m,47,51053.0,49.0,E2,89354.82,4. Quartal,Nordrhein-Westfalen
+K1015,Kunde,m,37,66600.0,49.0,E2,86748.87,3. Quartal,Niedersachsen
+K0153,Kunde,m,62,64538.0,49.0,E2,113786.43,2. Quartal,Baden-Württemberg
+K0817,Kunde,w,48,48903.0,38.0,E3,59895.32,2. Quartal,Baden-Württemberg
+K0866,Kunde,m,49,65479.0,45.0,E2,92555.99,2. Quartal,Sachsen
+K0903,Kunde,m,38,61052.0,39.0,E2,93849.29,3. Quartal,Niedersachsen
+K0112,Kunde,w,64,79138.0,59.0,E3,114319.8,3. Quartal,Nordrhein-Westfalen
+K0227,Kunde,m,54,70130.0,46.0,E2,127478.45,4. Quartal,Hessen
+K0824,Kunde,m,66,74400.0,51.0,E3,114577.68,2. Quartal,Bayern
+K0104,Kunde,m,53,59879.0,39.0,E2,92542.02,2. Quartal,Niedersachsen
+K0422,Kunde,w,34,39127.0,27.0,E1,71127.46,2. Quartal,Thüringen
+K0420,Kunde,m,52,77055.0,60.0,E2,121764.28,1. Quartal,Baden-Württemberg
+K0897,Kunde,m,64,91409.0,76.0,E3,140161.07,3. Quartal,Sachsen
+K0587,Kunde,w,66,86787.0,54.0,E3,127064.84,3. Quartal,Hessen
+K0931,Kunde,m,68,80968.0,47.0,E3,135002.85,2. Quartal,Sachsen
+K0673,Kunde,m,38,45470.0,40.0,E1,72615.51,3. Quartal,Sachsen
+K0120,Kunde,m,68,80444.0,44.0,E3,131551.59,4. Quartal,Thüringen
+K0054,Kunde,m,31,33214.0,31.0,E1,58416.51,4. Quartal,Sachsen
+K0152,Kunde,w,68,73781.0,55.0,E3,120941.76,2. Quartal,Baden-Württemberg
+K0404,Kunde,m,58,54668.0,42.0,E2,99426.78,1. Quartal,Baden-Württemberg
+K1103,Kunde,w,48,45545.0,30.0,E3,75700.83,2. Quartal,Berlin
+K0208,Kunde,w,32,35961.0,28.0,E1,42830.37,2. Quartal,Niedersachsen
+K0659,Kunde,m,34,43862.0,32.0,E1,91438.09,2. Quartal,Sachsen
+K1005,Kunde,m,69,84021.0,56.0,E3,133358.19,2. Quartal,Baden-Württemberg
+K0911,Kunde,m,58,48755.0,43.0,E2,95736.22,3. Quartal,Bayern
+K0009,Kunde,w,40,50085.0,42.0,E2,68956.52,3. Quartal,Bayern
+K0960,Kunde,m,58,67540.0,47.0,E3,106543.4,4. Quartal,Bayern
+K0037,Kunde,m,47,63067.0,41.0,E2,102867.75,4. Quartal,Bayern
+K0453,Kunde,m,42,47953.0,45.0,E1,65155.0,2. Quartal,Bayern
+K0652,Kunde,m,70,86609.0,60.0,E2,142906.55,2. Quartal,Bayern
+K0254,Kunde,m,67,53207.0,41.0,E2,90531.33,3. Quartal,Nordrhein-Westfalen
+K0304,Kunde,w,64,82125.0,66.0,E3,99958.46,3. Quartal,Berlin
+K0893,Kunde,m,40,40278.0,37.0,E2,45917.71,2. Quartal,Bayern
+K0572,Kunde,w,70,80568.0,43.0,E3,120515.75,3. Quartal,Nordrhein-Westfalen
+K0624,Kunde,m,62,70035.0,52.0,E3,98348.59,2. Quartal,Niedersachsen
+K0849,Kunde,m,33,41209.0,30.0,E1,56426.61,2. Quartal,Baden-Württemberg
+K1104,Kunde,m,63,61880.0,49.0,E2,101554.64,4. Quartal,Sachsen
+K0851,Kunde,m,35,41525.0,30.0,E1,75726.31,2. Quartal,Bayern
+K0263,Kunde,m,47,67211.0,45.0,E3,84216.96,3. Quartal,Thüringen
+K0611,Kunde,m,37,48132.0,32.0,E1,63544.0,2. Quartal,Bayern
+K0298,Kunde,m,64,72069.0,47.0,E3,116154.84,2. Quartal,Berlin
+K0415,Kunde,m,68,61880.0,60.0,E3,165482.31,2. Quartal,Niedersachsen
+K0151,Kunde,w,54,56914.0,36.0,E1,83783.08,1. Quartal,Berlin
+K0939,Kunde,w,62,73197.0,41.0,E3,115604.15,2. Quartal,Hessen
+K0779,Kunde,m,57,40366.0,23.0,E1,58229.04,2. Quartal,Berlin
+K0641,Kunde,m,47,55970.0,40.0,E3,76520.05,3. Quartal,Sachsen
+K1040,Kunde,w,70,73211.0,64.0,E3,121272.09,3. Quartal,Sachsen
+K0551,Kunde,m,51,51743.0,42.0,E3,91562.01,2. Quartal,Baden-Württemberg
+K0942,Kunde,m,62,75303.0,48.0,E3,116978.57,4. Quartal,Nordrhein-Westfalen
+K0489,Kunde,m,66,64077.0,48.0,E1,109821.52,2. Quartal,Nordrhein-Westfalen
+K0820,Kunde,m,35,35300.0,33.0,E1,58384.57,2. Quartal,Baden-Württemberg
+K0711,Kunde,m,67,61880.0,57.0,E3,112500.75,4. Quartal,Baden-Württemberg
+K0148,Kunde,w,59,79235.0,68.0,E2,130383.85,3. Quartal,Thüringen
+K0147,Kunde,m,49,52215.0,37.0,E1,87326.82,4. Quartal,Niedersachsen
+K0863,Kunde,w,48,54204.0,54.0,E2,86153.64,4. Quartal,Nordrhein-Westfalen
+K0346,Kunde,w,45,40446.0,41.0,E1,76851.18,2. Quartal,Brandenburg
+K0885,Kunde,m,69,79491.0,74.0,E3,127058.7,4. Quartal,Nordrhein-Westfalen
+K1036,Kunde,m,38,46165.0,35.0,E2,60325.44,2. Quartal,Berlin
+K0660,Kunde,w,60,56507.0,41.0,E3,84172.64,4. Quartal,Berlin
+K0771,Kunde,m,65,69167.0,42.0,E2,110950.37,2. Quartal,Niedersachsen
+K0349,Kunde,m,52,81387.0,55.0,E2,91299.91,3. Quartal,Hessen
+K0464,Kunde,m,39,47664.0,36.0,E2,71040.72,2. Quartal,Berlin
+K0326,Kunde,w,31,43389.0,47.0,E2,52734.87,2. Quartal,Sachsen
+K0187,Kunde,m,31,39617.0,35.0,E2,60089.79,3. Quartal,Berlin
+K0124,Kunde,w,44,52258.0,47.0,E3,72060.58,4. Quartal,Bayern
+K1016,Kunde,w,57,76694.0,58.0,E3,120681.69,4. Quartal,Bayern
+K0609,Kunde,m,53,66225.0,49.0,E1,78191.01,3. Quartal,Hessen
+K0144,Kunde,m,35,56593.0,51.0,E1,74955.3,2. Quartal,Brandenburg
+K0752,Kunde,m,57,60125.0,41.0,E1,89090.25,2. Quartal,Bayern
+K1082,Kunde,w,58,56452.0,37.0,E1,86683.9,3. Quartal,Baden-Württemberg
+K0198,Kunde,m,63,76247.0,40.0,E3,103879.52,2. Quartal,Niedersachsen
+K0610,Kunde,m,57,81624.0,63.0,E3,123507.46,4. Quartal,Berlin
+K0837,Kunde,w,32,55589.0,44.0,E2,60798.72,2. Quartal,Berlin
+K0280,Kunde,w,41,28790.0,44.0,E2,55293.51,2. Quartal,Niedersachsen
+K0294,Kunde,w,62,68397.0,49.0,E3,92611.11,2. Quartal,Hessen
+K0989,Kunde,w,65,52291.0,40.0,E2,83234.33,4. Quartal,Sachsen
+K0401,Kunde,andere,45,46062.0,25.0,E1,61105.39,2. Quartal,Nordrhein-Westfalen
+K0123,Kunde,m,44,57848.0,43.0,E3,81081.18,2. Quartal,Bayern
+K0184,Kunde,w,62,73353.0,51.0,E1,104733.83,2. Quartal,Berlin
+K0203,Kunde,m,62,75407.0,55.0,E1,115505.36,2. Quartal,Brandenburg
+K0439,Kunde,w,49,63205.0,35.0,E2,92627.74,2. Quartal,Berlin
+K0836,Kunde,m,38,46525.0,34.0,E1,80802.74,3. Quartal,Bayern
+K0247,Kunde,m,49,73660.0,51.0,E3,107200.27,3. Quartal,Bayern
+K0416,Kunde,m,65,72055.0,51.0,E3,105462.29,2. Quartal,Brandenburg
+K0927,Kunde,m,54,55557.0,38.0,E2,72637.98,3. Quartal,Bayern
+K0914,Kunde,m,70,77481.0,60.0,E3,114318.99,1. Quartal,Baden-Württemberg
+K1050,Kunde,m,63,69742.0,43.0,E3,94365.56,2. Quartal,Berlin
+K0918,Kunde,m,64,65754.0,53.0,E2,95513.44,3. Quartal,Hamburg
+K0053,Kunde,m,33,47124.0,35.0,E2,79603.78,3. Quartal,Bayern
+K0130,Kunde,w,33,37491.0,32.0,E1,53138.58,3. Quartal,Niedersachsen
+K0638,Kunde,w,34,27982.0,28.0,E1,31074.53,3. Quartal,Bayern
+K0403,Kunde,m,51,58438.0,52.0,E1,90811.71,4. Quartal,Baden-Württemberg
+K0935,Kunde,m,67,69567.0,53.0,E3,128522.22,4. Quartal,Brandenburg
+K0921,Kunde,w,34,23826.0,34.0,E1,48808.86,2. Quartal,Niedersachsen
+K0736,Kunde,m,45,62178.0,46.0,E3,85463.8,2. Quartal,Baden-Württemberg
+K0855,Kunde,w,44,68447.0,47.0,E3,96292.93,2. Quartal,Sachsen
+K1053,Kunde,m,53,59694.0,40.0,E2,91743.18,2. Quartal,Sachsen
+K0220,Kunde,m,69,74254.0,63.0,E3,102553.46,4. Quartal,Bayern
+K0642,Kunde,m,61,74239.0,65.0,E3,106676.91,2. Quartal,Thüringen
+K0002,Kunde,andere,58,65271.0,44.0,E2,106258.99,2. Quartal,Nordrhein-Westfalen
+K0899,Kunde,w,60,73978.0,44.0,E3,109383.25,4. Quartal,Baden-Württemberg
+K1076,Kunde,m,59,80507.0,52.0,E3,122494.92,3. Quartal,Baden-Württemberg
+K0081,Kunde,w,36,27831.0,37.0,E1,38628.85,3. Quartal,Bayern
+K0625,Kunde,m,49,58030.0,38.0,E1,102268.68,1. Quartal,Nordrhein-Westfalen
+K0997,Kunde,w,67,88160.0,67.0,E3,116308.36,4. Quartal,Hessen
+K0909,Kunde,w,69,80988.0,57.0,E2,130219.27,2. Quartal,Baden-Württemberg
+K0387,Kunde,m,30,40170.0,44.0,E1,63566.56,2. Quartal,Hessen
+K1092,Kunde,m,59,63905.0,38.0,E1,94428.01,3. Quartal,Bayern
+K0807,Kunde,w,33,41016.0,36.0,E2,61945.93,1. Quartal,Bayern
+K0510,Kunde,w,57,57867.0,35.0,E2,78941.48,2. Quartal,Bayern
+K0268,Kunde,w,65,73022.0,64.0,E1,100337.77,4. Quartal,Niedersachsen
+K0973,Kunde,m,67,78366.0,55.0,E2,109630.95,2. Quartal,Nordrhein-Westfalen
+K0442,Kunde,m,64,67455.0,38.0,E3,116446.72,3. Quartal,Nordrhein-Westfalen
+K0497,Kunde,m,46,46352.0,22.0,E2,76759.63,2. Quartal,Bayern
+K0830,Kunde,m,33,34894.0,29.0,E2,60765.14,4. Quartal,Baden-Württemberg
+K0113,Kunde,m,66,70138.0,59.0,E1,102407.29,2. Quartal,Berlin
+K0692,Kunde,w,59,61988.0,34.0,E1,83817.23,2. Quartal,Baden-Württemberg
+K0233,Kunde,m,45,62886.0,50.0,E1,91266.15,3. Quartal,Nordrhein-Westfalen
+K0472,Kunde,w,65,82579.0,52.0,E1,119442.59,2. Quartal,Nordrhein-Westfalen
+K0608,Kunde,w,41,38158.0,37.0,E1,49170.73,2. Quartal,Nordrhein-Westfalen
+K0672,Kunde,w,43,41643.0,25.0,E1,68969.85,3. Quartal,Berlin
+K0374,Kunde,m,42,63339.0,54.0,E2,90132.53,2. Quartal,Nordrhein-Westfalen
+K0827,Kunde,m,50,45848.0,47.0,E1,48780.22,4. Quartal,Hessen
+K0664,Kunde,m,52,58625.0,46.0,E1,113237.35,3. Quartal,Sachsen
+K1004,Kunde,m,42,41463.0,43.0,E2,74976.67,2. Quartal,Baden-Württemberg
+K0234,Kunde,m,55,66624.0,36.0,E2,94540.15,4. Quartal,Hessen
+K0819,Kunde,m,66,95730.0,63.0,E3,138765.11,4. Quartal,Nordrhein-Westfalen
+K0936,Kunde,m,62,66385.0,45.0,E1,110890.06,2. Quartal,Hessen
+K0677,Kunde,m,30,28784.0,34.0,E1,42416.07,3. Quartal,Berlin
+K0318,Kunde,m,54,72215.0,42.0,E3,117790.98,2. Quartal,Sachsen
+K0649,Kunde,w,42,55975.0,38.0,E2,80767.86,3. Quartal,Nordrhein-Westfalen
+K0411,Kunde,m,45,60218.0,41.0,E2,102902.04,2. Quartal,Hamburg
+K1044,Kunde,w,40,40385.0,38.0,E1,60570.44,3. Quartal,Baden-Württemberg
+K0710,Kunde,m,63,58435.0,47.0,E2,87561.26,2. Quartal,Thüringen
+K0359,Kunde,m,51,40228.0,31.0,E1,64816.33,3. Quartal,Hessen
+K0259,Kunde,m,64,64196.0,48.0,E2,107141.39,2. Quartal,Bayern
+K0745,Kunde,w,56,81045.0,58.0,E3,125101.5,2. Quartal,Berlin
+K0628,Kunde,m,58,49747.0,48.0,E2,77878.69,2. Quartal,Hamburg
+K0633,Kunde,m,34,65070.0,57.0,E2,98105.63,3. Quartal,Hamburg
+K0283,Kunde,w,59,76842.0,47.0,E3,94309.74,2. Quartal,Baden-Württemberg
+K0377,Kunde,m,46,40684.0,36.0,E1,66968.71,4. Quartal,Niedersachsen
+K0385,Kunde,m,41,46713.0,40.0,E2,49617.32,3. Quartal,Bayern
+K0225,Kunde,m,40,50730.0,30.0,E2,69432.02,2. Quartal,Baden-Württemberg
+K1079,Kunde,m,61,59927.0,47.0,E3,100903.48,2. Quartal,Baden-Württemberg
+K0967,Kunde,m,51,47827.0,39.0,E1,71298.43,2. Quartal,Thüringen
+K0473,Kunde,m,54,60025.0,42.0,E2,74740.62,2. Quartal,Berlin
+K0348,Kunde,w,41,62740.0,52.0,E3,91641.0,2. Quartal,Niedersachsen
+K0506,Kunde,m,48,45333.0,40.0,E1,65343.65,3. Quartal,Hessen
+K0640,Kunde,w,30,41029.0,32.0,E1,70761.65,2. Quartal,Hessen
+K1099,Kunde,w,32,23753.0,22.0,E1,40179.55,4. Quartal,Bayern
+K0798,Kunde,m,46,51329.0,32.0,E1,77922.3,2. Quartal,Thüringen
+K0340,Kunde,m,42,48275.0,42.0,E2,70990.88,3. Quartal,Thüringen
+K0556,Kunde,m,65,60136.0,44.0,E2,116989.74,3. Quartal,Hessen
+K0620,Kunde,m,65,55071.0,41.0,E1,90033.88,4. Quartal,Niedersachsen
+K1020,Kunde,w,43,52541.0,36.0,E3,79916.64,3. Quartal,Hessen
+K0955,Kunde,w,62,79399.0,56.0,E1,125617.3,3. Quartal,Baden-Württemberg
+K0646,Kunde,m,54,64748.0,47.0,E1,104496.28,4. Quartal,Bayern
+K1008,Kunde,w,62,57795.0,38.0,E3,85730.62,2. Quartal,Niedersachsen
+K0557,Kunde,w,35,59218.0,33.0,E2,89824.77,1. Quartal,Berlin
+K0682,Kunde,m,60,71186.0,53.0,E2,115349.19,2. Quartal,Hessen
+K0578,Kunde,m,54,55199.0,59.0,E2,64942.31,3. Quartal,Baden-Württemberg
+K0796,Kunde,m,39,61809.0,44.0,E3,80843.31,3. Quartal,Nordrhein-Westfalen
+K0086,Kunde,m,53,61613.0,50.0,E3,99068.03,2. Quartal,Brandenburg
+K0243,Kunde,m,64,71112.0,55.0,E3,121577.09,2. Quartal,Hamburg
+K0699,Kunde,m,31,44046.0,31.0,E1,51186.35,2. Quartal,Thüringen
+K0839,Kunde,m,69,72349.0,61.0,E1,103823.85,2. Quartal,Baden-Württemberg
+K0160,Kunde,m,35,55716.0,25.0,E1,63069.62,2. Quartal,Sachsen
+K0525,Kunde,m,43,53186.0,43.0,E1,93969.09,3. Quartal,Hamburg
+K0036,Kunde,m,68,79182.0,48.0,E2,125939.52,3. Quartal,Baden-Württemberg
+K0541,Kunde,m,38,59079.0,56.0,E2,92587.82,2. Quartal,Berlin
+K0171,Kunde,m,70,95326.0,66.0,E3,133593.66,3. Quartal,Baden-Württemberg
+K0655,Kunde,m,50,48277.0,47.0,E3,88936.09,2. Quartal,Nordrhein-Westfalen
+K0749,Kunde,m,50,78249.0,55.0,E3,114846.09,3. Quartal,Nordrhein-Westfalen
+K1021,Kunde,m,69,61880.0,65.0,E3,125140.05,3. Quartal,Bayern
+K1009,Kunde,w,69,77887.0,51.0,E3,126098.91,3. Quartal,Hessen
+K0485,Kunde,m,61,94363.0,50.0,E3,137974.71,3. Quartal,Bayern
+K0734,Kunde,m,60,61431.0,33.0,E2,105250.41,2. Quartal,Bayern
+K0900,Kunde,w,34,46252.0,39.0,E1,62891.18,3. Quartal,Berlin
+K0096,Kunde,m,57,60138.0,35.0,E1,102300.93,2. Quartal,Baden-Württemberg
+K0564,Kunde,m,48,57825.0,31.0,E1,94299.04,4. Quartal,Thüringen
+K0241,Kunde,m,38,35214.0,32.0,E1,50205.8,3. Quartal,Bayern
+K0743,Kunde,w,61,65648.0,51.0,E2,100202.5,2. Quartal,Berlin
+K0864,Kunde,m,49,60621.0,41.0,E2,81988.0,4. Quartal,Hessen
+K0575,Kunde,w,32,61059.0,47.0,E2,81549.78,4. Quartal,Nordrhein-Westfalen
+K0691,Kunde,m,59,60769.0,53.0,E3,72785.83,2. Quartal,Baden-Württemberg
+K0461,Kunde,w,37,60379.0,59.0,E3,83542.5,2. Quartal,Thüringen
+K0892,Kunde,m,38,51844.0,31.0,E2,60596.45,4. Quartal,Sachsen
+K0554,Kunde,m,54,71830.0,44.0,E2,113981.18,3. Quartal,Bayern
+K0858,Kunde,m,55,75123.0,55.0,E3,97596.04,2. Quartal,Nordrhein-Westfalen
+K1032,Kunde,w,30,29432.0,28.0,E1,61522.97,2. Quartal,Nordrhein-Westfalen
+K0207,Kunde,w,58,46940.0,36.0,E2,78383.96,2. Quartal,Baden-Württemberg
+K0393,Kunde,m,45,52953.0,36.0,E3,69536.92,4. Quartal,Brandenburg
+K0795,Kunde,w,57,68942.0,51.0,E3,96688.41,2. Quartal,Nordrhein-Westfalen
+K0871,Kunde,m,67,73602.0,56.0,E2,124908.81,2. Quartal,Nordrhein-Westfalen
+K0398,Kunde,w,32,58361.0,46.0,E2,71055.84,4. Quartal,Nordrhein-Westfalen
+K0767,Kunde,w,51,71583.0,59.0,E3,99159.39,3. Quartal,Baden-Württemberg
+K1010,Kunde,m,41,50856.0,42.0,E3,87967.12,2. Quartal,Nordrhein-Westfalen
+K0218,Kunde,w,70,73363.0,54.0,E3,111223.31,1. Quartal,Hamburg
+K0005,Kunde,w,50,56621.0,40.0,E3,92898.67,2. Quartal,Bayern
+K0769,Kunde,w,46,49781.0,48.0,E3,73484.48,2. Quartal,Hessen
+K0643,Kunde,m,40,43259.0,36.0,E2,58493.0,4. Quartal,Niedersachsen
+K0462,Kunde,w,58,67418.0,65.0,E2,95613.26,2. Quartal,Bayern
+K0943,Kunde,w,31,27160.0,26.0,E1,40495.11,2. Quartal,Bayern
+K0613,Kunde,m,65,60902.0,52.0,E3,114790.5,4. Quartal,Niedersachsen
+K0739,Kunde,w,69,67799.0,55.0,E1,99345.38,3. Quartal,Bayern
+K0961,Kunde,w,67,81679.0,57.0,E2,124223.23,3. Quartal,Bayern
+K0547,Kunde,w,67,74189.0,44.0,E3,118596.14,2. Quartal,Baden-Württemberg
+K0987,Kunde,w,60,70775.0,64.0,E2,101574.15,3. Quartal,Baden-Württemberg
+K0726,Kunde,m,34,52759.0,53.0,E3,77110.67,4. Quartal,Niedersachsen
+K1097,Kunde,m,58,68451.0,45.0,E1,114851.71,2. Quartal,Nordrhein-Westfalen
+K0684,Kunde,m,68,84609.0,54.0,E3,123507.33,3. Quartal,Baden-Württemberg
+K0099,Kunde,w,37,48532.0,32.0,E1,68786.85,2. Quartal,Hessen
+K0805,Kunde,m,49,69675.0,51.0,E1,92342.53,3. Quartal,Baden-Württemberg
+K0728,Kunde,m,35,24355.0,32.0,E1,55167.61,3. Quartal,Hessen
+K0574,Kunde,w,30,36552.0,21.0,E1,51200.08,3. Quartal,Baden-Württemberg
+K0407,Kunde,m,34,44113.0,34.0,E1,69211.99,3. Quartal,Sachsen
+K0503,Kunde,w,65,68189.0,36.0,E3,97143.57,4. Quartal,Nordrhein-Westfalen
+K0048,Kunde,w,64,77668.0,63.0,E3,116246.65,3. Quartal,Baden-Württemberg
+K0033,Kunde,w,36,24397.0,38.0,E1,32833.88,4. Quartal,Baden-Württemberg
+K0930,Kunde,m,37,44420.0,26.0,E1,51519.02,2. Quartal,Bayern
+K0780,Kunde,m,52,60063.0,31.0,E2,109287.55,3. Quartal,Niedersachsen
+K0840,Kunde,w,66,94518.0,62.0,E1,119618.58,2. Quartal,Thüringen
+K0201,Kunde,andere,40,55005.0,47.0,E2,76273.78,1. Quartal,Berlin
+K0135,Kunde,w,44,43460.0,45.0,E2,71339.81,2. Quartal,Hessen
+K0028,Kunde,m,57,83306.0,53.0,E1,112854.14,2. Quartal,Sachsen
+K0041,Kunde,m,62,55278.0,46.0,E2,95883.59,2. Quartal,Baden-Württemberg
+K1018,Kunde,m,38,54775.0,40.0,E2,75261.51,3. Quartal,Hamburg
+K0231,Kunde,w,64,89881.0,55.0,E3,120551.98,2. Quartal,Hessen
+K0490,Kunde,m,41,57422.0,47.0,E2,75053.42,2. Quartal,Nordrhein-Westfalen
+K0773,Kunde,w,37,30511.0,29.0,E1,63585.76,2. Quartal,Niedersachsen
+K0379,Kunde,m,57,66962.0,47.0,E2,103890.1,1. Quartal,Sachsen
+K0289,Kunde,m,63,65128.0,42.0,E2,111253.56,3. Quartal,Berlin
+K0419,Kunde,m,66,80562.0,48.0,E3,121433.27,3. Quartal,Bayern
+K0392,Kunde,m,30,23168.0,23.0,E2,38984.74,4. Quartal,Thüringen
+K0593,Kunde,m,70,76112.0,60.0,E3,107199.46,3. Quartal,Sachsen
+K0648,Kunde,m,56,65663.0,55.0,E2,107678.5,2. Quartal,Hessen
+K0521,Kunde,m,52,77888.0,59.0,E2,105968.69,4. Quartal,Bayern
+K0065,Kunde,w,44,47332.0,36.0,E3,84281.71,2. Quartal,Baden-Württemberg
+K0015,Kunde,m,32,43022.0,36.0,E1,50811.55,2. Quartal,Sachsen
+K0493,Kunde,m,54,65610.0,59.0,E3,78467.12,2. Quartal,Berlin
+K0380,Kunde,m,55,69487.0,50.0,E1,93455.52,3. Quartal,Thüringen
+K0188,Kunde,w,55,76066.0,52.0,E2,112809.53,3. Quartal,Hamburg
+K0764,Kunde,m,56,76011.0,63.0,E2,125585.18,3. Quartal,Nordrhein-Westfalen
+K0217,Kunde,m,36,51478.0,32.0,E3,90484.89,2. Quartal,Bayern
+K0792,Kunde,w,44,52628.0,47.0,E1,80768.14,2. Quartal,Bayern
+K0879,Kunde,m,39,50202.0,30.0,E2,86793.36,3. Quartal,Bayern
+K0338,Kunde,m,54,58380.0,45.0,E2,89265.3,2. Quartal,Hessen
+K0720,Kunde,m,39,57156.0,39.0,E1,77986.08,2. Quartal,Baden-Württemberg
+K0296,Kunde,m,48,51210.0,29.0,E1,64363.81,2. Quartal,Bayern
+K1017,Kunde,w,60,57664.0,51.0,E1,95386.14,2. Quartal,Hessen
+K0456,Kunde,w,31,36628.0,33.0,E1,58605.27,3. Quartal,Berlin
+K0816,Kunde,m,69,77676.0,62.0,E3,126864.71,4. Quartal,Nordrhein-Westfalen
+K0270,Kunde,w,33,38152.0,26.0,E1,68310.6,2. Quartal,Baden-Württemberg
+K0996,Kunde,m,69,65252.0,42.0,E2,105771.99,4. Quartal,Berlin
+K0202,Kunde,w,45,49088.0,39.0,E3,80749.79,2. Quartal,Niedersachsen
+K0162,Kunde,m,56,66685.0,55.0,E2,110938.59,2. Quartal,Hessen
+K0730,Kunde,m,42,22279.0,20.0,E1,61502.53,2. Quartal,Sachsen
+K0402,Kunde,m,66,85534.0,59.0,E1,122017.62,4. Quartal,Sachsen
+K0703,Kunde,m,63,81261.0,48.0,E2,109555.23,4. Quartal,Bayern
+K0566,Kunde,m,32,26878.0,36.0,E1,50126.6,2. Quartal,Bayern
+K1022,Kunde,m,70,84074.0,57.0,E3,144045.32,2. Quartal,Baden-Württemberg
+K1026,Kunde,m,30,52514.0,27.0,E1,76020.69,3. Quartal,Niedersachsen
+K0206,Kunde,m,45,54276.0,43.0,E2,88859.4,4. Quartal,Baden-Württemberg
+K0035,Kunde,m,62,48364.0,35.0,E2,85707.42,3. Quartal,Bayern
+K0776,Kunde,w,51,69957.0,51.0,E2,102053.63,3. Quartal,Bayern
+K0509,Kunde,m,36,40554.0,24.0,E2,68345.72,3. Quartal,Baden-Württemberg
+K1091,Kunde,m,57,78835.0,55.0,E3,112307.45,3. Quartal,Baden-Württemberg
+K0092,Kunde,m,62,71666.0,59.0,E3,107104.52,2. Quartal,Thüringen
+K0898,Kunde,m,59,79283.0,59.0,E2,105625.52,3. Quartal,Berlin
+K0565,Kunde,w,68,61693.0,52.0,E2,111218.49,3. Quartal,Nordrhein-Westfalen
+K0777,Kunde,w,43,57981.0,55.0,E2,96036.67,2. Quartal,Niedersachsen
+K0242,Kunde,m,70,80732.0,52.0,E2,116569.27,1. Quartal,Baden-Württemberg
+K0014,Kunde,w,53,70398.0,48.0,E2,102062.3,3. Quartal,Sachsen
+K0316,Kunde,m,32,53135.0,53.0,E3,81152.36,4. Quartal,Baden-Württemberg
+K0601,Kunde,m,40,53679.0,41.0,E2,77410.61,2. Quartal,Berlin
+K0388,Kunde,m,63,82564.0,59.0,E3,124742.75,4. Quartal,Bayern
+K0167,Kunde,m,44,47834.0,44.0,E2,69642.73,4. Quartal,Berlin
+K0841,Kunde,m,65,62961.0,56.0,E1,106364.96,2. Quartal,Baden-Württemberg
+K0021,Kunde,m,31,27501.0,22.0,E1,39695.86,3. Quartal,Hessen
+K0647,Kunde,w,51,61555.0,36.0,E2,101804.21,2. Quartal,Hamburg
+K0832,Kunde,m,40,42128.0,40.0,E1,78281.31,3. Quartal,Niedersachsen
+K0563,Kunde,m,55,45218.0,34.0,E2,69467.58,2. Quartal,Berlin
+K1078,Kunde,m,48,43335.0,27.0,E1,67948.2,2. Quartal,Nordrhein-Westfalen
+K0687,Kunde,w,32,43583.0,37.0,E1,75274.62,3. Quartal,Baden-Württemberg
+K0958,Kunde,w,56,42003.0,43.0,E3,84471.99,2. Quartal,Hessen
+K0190,Kunde,w,35,41741.0,38.0,E2,52271.78,3. Quartal,Hamburg
+K0976,Kunde,w,65,79589.0,57.0,E3,117896.45,2. Quartal,Hessen
+K0700,Kunde,w,40,76423.0,51.0,E3,101008.49,2. Quartal,Bayern
+K0511,Kunde,m,43,59012.0,44.0,E1,91000.76,2. Quartal,Baden-Württemberg
+K1083,Kunde,w,59,61880.0,46.0,E1,92837.59,1. Quartal,Baden-Württemberg
+K0475,Kunde,m,65,58270.0,38.0,E2,85983.74,2. Quartal,Berlin
+K0857,Kunde,m,37,57504.0,40.0,E2,78406.83,4. Quartal,Berlin
+K0748,Kunde,m,48,59014.0,48.0,E1,97451.48,3. Quartal,Bayern
+K0253,Kunde,m,65,70212.0,45.0,E2,102160.74,3. Quartal,Hessen
+K0022,Kunde,w,50,49026.0,36.0,E3,79076.93,3. Quartal,Berlin
+K0460,Kunde,m,55,61750.0,52.0,E3,93666.44,2. Quartal,Nordrhein-Westfalen
+K0277,Kunde,w,32,34846.0,25.0,E2,48990.25,2. Quartal,Baden-Württemberg
+K0956,Kunde,w,59,68568.0,41.0,E2,95476.41,3. Quartal,Baden-Württemberg
+K0386,Kunde,m,30,62318.0,50.0,E1,93943.58,2. Quartal,Hessen
+K0806,Kunde,m,54,84027.0,58.0,E2,117270.4,3. Quartal,Niedersachsen
+K0344,Kunde,m,30,29264.0,21.0,E1,54886.03,3. Quartal,Berlin
+K0770,Kunde,m,55,71467.0,59.0,E1,89954.18,2. Quartal,Hessen
+K0131,Kunde,w,59,68825.0,60.0,E2,83303.72,2. Quartal,Brandenburg
+K0872,Kunde,m,66,58457.0,35.0,E2,79415.76,3. Quartal,Bayern
+K0088,Kunde,m,46,46384.0,37.0,E1,82034.0,2. Quartal,Sachsen
+K0331,Kunde,m,69,96516.0,64.0,E2,142208.17,3. Quartal,Baden-Württemberg
+K0467,Kunde,m,70,69581.0,51.0,E1,103751.58,3. Quartal,Thüringen
+K0122,Kunde,m,38,48301.0,33.0,E2,64230.98,2. Quartal,Niedersachsen
+K1045,Kunde,m,67,63547.0,41.0,E3,103123.57,4. Quartal,Berlin
+K1096,Kunde,m,37,32686.0,36.0,E1,49215.87,3. Quartal,Baden-Württemberg
+K0861,Kunde,m,55,71240.0,49.0,E3,106132.59,2. Quartal,Bayern
+K1814,Besucher,w,30,39919.1,29.0,,,,Bayern
+K1544,Besucher,w,41,53430.67,27.0,,,,Baden-Württemberg
+K1945,Besucher,w,64,73163.22,32.0,,,,Baden-Württemberg
+K1825,Besucher,w,41,36761.48,44.0,,,,Baden-Württemberg
+K1144,Besucher,m,35,42684.33,33.0,,,,Nordrhein-Westfalen
+K1395,Besucher,m,67,63881.03,27.0,,,,Berlin
+K1405,Besucher,w,46,68885.02,59.0,,,,Nordrhein-Westfalen
+K1438,Besucher,w,63,63083.29,40.0,,,,Niedersachsen
+K1313,Besucher,m,30,55256.45,31.0,,,,Baden-Württemberg
+K1241,Besucher,w,32,44873.24,44.0,,,,Sachsen
+K1242,Besucher,w,66,75200.53,35.0,,,,Berlin
+K1801,Besucher,w,61,59560.06,37.0,,,,Nordrhein-Westfalen
+K1590,Besucher,m,66,90643.13,25.0,,,,Baden-Württemberg
+K1349,Besucher,w,68,80553.39,56.0,,,,Baden-Württemberg
+K1449,Besucher,m,39,42543.25,30.0,,,,Hessen
+K1958,Besucher,w,40,33126.11,34.0,,,,Baden-Württemberg
+K1726,Besucher,m,44,62175.96,33.0,,,,Berlin
+K1758,Besucher,w,49,51900.08,40.0,,,,Bayern
+K1991,Besucher,m,48,59967.31,21.0,,,,Hessen
+K1215,Besucher,w,36,33884.97,49.0,,,,Bayern
+K1399,Besucher,m,66,67587.21,37.0,,,,Nordrhein-Westfalen
+K1552,Besucher,m,31,38844.34,21.0,,,,Berlin
+K1297,Besucher,w,61,66782.63,25.0,,,,Nordrhein-Westfalen
+K1787,Besucher,w,40,54891.45,46.0,,,,Baden-Württemberg
+K1643,Besucher,w,49,59388.52,21.0,,,,Baden-Württemberg
+K1924,Besucher,w,62,92892.64,14.0,,,,Nordrhein-Westfalen
+K1135,Besucher,m,36,36252.28,46.0,,,,Hamburg
+K1778,Besucher,m,45,54233.59,37.0,,,,Niedersachsen
+K1168,Besucher,w,64,84876.3,34.0,,,,Baden-Württemberg
+K1501,Besucher,w,50,60708.23,44.0,,,,Hessen
+K1982,Besucher,w,45,54500.54,30.0,,,,Hamburg
+K1246,Besucher,m,31,34101.76,46.0,,,,Bayern
+K1898,Besucher,w,50,55260.85,46.0,,,,Brandenburg
+K1340,Besucher,m,52,71014.31,21.0,,,,Bayern
+K1309,Besucher,w,34,53036.01,46.0,,,,Bayern
+K1725,Besucher,m,67,79728.14,22.0,,,,Thüringen
+K1128,Besucher,m,31,26637.98,30.0,,,,Niedersachsen
+K1303,Besucher,m,38,48808.07,54.0,,,,Baden-Württemberg
+K1947,Besucher,w,46,61964.35,57.0,,,,Bayern
+K1844,Besucher,w,31,27594.39,49.0,,,,Bayern
+K1225,Besucher,m,68,83333.57,33.0,,,,Bayern
+K1582,Besucher,w,48,54207.39,45.0,,,,Nordrhein-Westfalen
+K1942,Besucher,w,40,65585.39,43.0,,,,Bayern
+K1895,Besucher,m,37,39421.71,38.0,,,,Berlin
+K1467,Besucher,m,69,61880.0,47.0,,,,Nordrhein-Westfalen
+K1191,Besucher,m,69,91625.0,21.0,,,,Niedersachsen
+K1172,Besucher,w,43,67392.46,45.0,,,,Nordrhein-Westfalen
+K1455,Besucher,w,52,68557.64,27.0,,,,Sachsen
+K1315,Besucher,w,37,51083.83,41.0,,,,Baden-Württemberg
+K1764,Besucher,w,51,52205.09,42.0,,,,Baden-Württemberg
+K1553,Besucher,w,68,96580.06,30.0,,,,Nordrhein-Westfalen
+K1925,Besucher,m,63,80825.88,50.0,,,,Berlin
+K1465,Besucher,m,63,56999.13,50.0,,,,Berlin
+K1907,Besucher,m,66,64794.73,35.0,,,,Berlin
+K1385,Besucher,w,50,75601.53,31.0,,,,Thüringen
+K1690,Besucher,m,35,32469.35,24.0,,,,Bayern
+K1175,Besucher,m,53,51711.71,37.0,,,,Baden-Württemberg
+K1404,Besucher,m,62,75231.18,44.0,,,,Baden-Württemberg
+K1316,Besucher,m,39,37428.12,37.0,,,,Niedersachsen
+K1149,Besucher,w,53,75785.77,49.0,,,,Bayern
+K1513,Besucher,m,39,30485.19,44.0,,,,Hamburg
+K1551,Besucher,m,60,70853.56,30.0,,,,Baden-Württemberg
+K1531,Besucher,m,41,57516.9,39.0,,,,Berlin
+K1273,Besucher,m,37,66419.25,28.0,,,,Thüringen
+K1301,Besucher,m,45,62279.13,27.0,,,,Baden-Württemberg
+K1877,Besucher,w,52,70297.21,51.0,,,,Nordrhein-Westfalen
+K1177,Besucher,m,37,65035.0,44.0,,,,Niedersachsen
+K1527,Besucher,w,36,41668.05,40.0,,,,Bayern
+K1637,Besucher,m,43,49480.58,23.0,,,,Baden-Württemberg
+K1696,Besucher,m,54,56292.71,36.0,,,,Hamburg
+K1417,Besucher,w,67,78307.65,35.0,,,,Hamburg
+K1416,Besucher,m,37,43614.88,34.0,,,,Bayern
+K1994,Besucher,m,49,76602.79,19.0,,,,Berlin
+K1940,Besucher,w,42,58051.96,25.0,,,,Baden-Württemberg
+K1938,Besucher,m,46,51857.86,44.0,,,,Nordrhein-Westfalen
+K1710,Besucher,w,68,79291.16,36.0,,,,Nordrhein-Westfalen
+K1872,Besucher,w,70,76105.63,25.0,,,,Hessen
+K1644,Besucher,m,58,68691.18,37.0,,,,Nordrhein-Westfalen
+K1462,Besucher,w,43,48849.87,36.0,,,,Brandenburg
+K1359,Besucher,m,65,92223.19,41.0,,,,Baden-Württemberg
+K1371,Besucher,m,69,85613.26,28.0,,,,Hessen
+K1171,Besucher,m,47,53430.97,30.0,,,,Berlin
+K1424,Besucher,w,41,34560.06,34.0,,,,Baden-Württemberg
+K1883,Besucher,w,38,46846.65,46.0,,,,Baden-Württemberg
+K1279,Besucher,m,44,53482.31,33.0,,,,Bayern
+K1598,Besucher,m,35,29395.64,28.0,,,,Baden-Württemberg
+K1320,Besucher,m,40,68282.05,15.0,,,,Hamburg
+K1414,Besucher,w,45,66573.49,52.0,,,,Nordrhein-Westfalen
+K1927,Besucher,w,39,44825.25,45.0,,,,Baden-Württemberg
+K1355,Besucher,m,38,40638.12,46.0,,,,Baden-Württemberg
+K1270,Besucher,m,61,75680.86,42.0,,,,Sachsen
+K1646,Besucher,m,37,39528.49,19.0,,,,Bayern
+K1730,Besucher,m,32,44270.05,45.0,,,,Niedersachsen
+K1493,Besucher,w,70,74005.81,42.0,,,,Baden-Württemberg
+K1181,Besucher,m,34,43060.35,32.0,,,,Nordrhein-Westfalen
+K1386,Besucher,m,60,71786.36,36.0,,,,Bayern
+K1817,Besucher,w,48,60260.02,30.0,,,,Berlin
+K1443,Besucher,m,37,45165.04,36.0,,,,Bayern
+K1432,Besucher,m,68,98083.37,22.0,,,,Berlin
+K1426,Besucher,m,44,43990.6,35.0,,,,Brandenburg
+K1650,Besucher,m,48,54965.09,30.0,,,,Niedersachsen
+K1695,Besucher,m,53,53797.07,24.0,,,,Hessen
+K1396,Besucher,m,61,75646.61,45.0,,,,Bayern
+K1570,Besucher,w,67,85750.08,41.0,,,,Nordrhein-Westfalen
+K1919,Besucher,w,49,49362.36,36.0,,,,Thüringen
+K1547,Besucher,m,40,39581.25,5.0,,,,Niedersachsen
+K1775,Besucher,w,53,72005.36,27.0,,,,Nordrhein-Westfalen
+K1567,Besucher,m,50,64800.0,35.0,,,,Thüringen
+K1391,Besucher,m,54,73773.47,23.0,,,,Berlin
+K1314,Besucher,m,49,51990.86,29.0,,,,Berlin
+K1774,Besucher,w,40,62840.37,35.0,,,,Nordrhein-Westfalen
+K1332,Besucher,m,30,46686.49,36.0,,,,Sachsen
+K1954,Besucher,w,35,42664.93,34.0,,,,Nordrhein-Westfalen
+K1617,Besucher,m,65,78027.33,12.0,,,,Niedersachsen
+K1632,Besucher,w,54,54771.82,26.0,,,,Baden-Württemberg
+K1981,Besucher,m,61,79526.72,62.0,,,,Baden-Württemberg
+K1201,Besucher,m,36,32281.86,52.0,,,,Hessen
+K1397,Besucher,w,32,31010.6,42.0,,,,Baden-Württemberg
+K1428,Besucher,w,68,78362.67,21.0,,,,Baden-Württemberg
+K1841,Besucher,w,51,56457.49,28.0,,,,Nordrhein-Westfalen
+K1634,Besucher,w,68,74860.99,20.0,,,,Bayern
+K1323,Besucher,w,54,68635.79,29.0,,,,Baden-Württemberg
+K1380,Besucher,w,61,61246.33,45.0,,,,Nordrhein-Westfalen
+K1183,Besucher,w,63,69114.67,39.0,,,,Hamburg
+K1890,Besucher,w,58,76153.05,25.0,,,,Bayern
+K1709,Besucher,m,41,39145.7,40.0,,,,Hessen
+K1901,Besucher,m,45,34526.57,17.0,,,,Baden-Württemberg
+K1244,Besucher,m,47,61173.94,37.0,,,,Niedersachsen
+K1683,Besucher,m,35,40070.02,47.0,,,,Bayern
+K1599,Besucher,m,47,61411.11,21.0,,,,Bayern
+K1464,Besucher,w,66,76131.41,42.0,,,,Sachsen
+K1170,Besucher,m,57,52580.66,29.0,,,,Bayern
+K1586,Besucher,m,31,12031.99,32.0,,,,Baden-Württemberg
+K1882,Besucher,w,63,74054.71,43.0,,,,Nordrhein-Westfalen
+K1704,Besucher,m,30,47051.43,23.0,,,,Baden-Württemberg
+K1935,Besucher,w,57,75169.08,44.0,,,,Thüringen
+K1411,Besucher,w,49,53203.21,44.0,,,,Hessen
+K1336,Besucher,m,64,74726.85,55.0,,,,Bayern
+K1950,Besucher,w,37,60309.96,38.0,,,,Baden-Württemberg
+K1154,Besucher,m,40,56212.03,39.0,,,,Bayern
+K1757,Besucher,m,50,46631.76,36.0,,,,Bayern
+K1959,Besucher,w,49,56491.65,25.0,,,,Baden-Württemberg
+K1447,Besucher,w,51,46713.49,34.0,,,,Berlin
+K1699,Besucher,m,37,37001.86,29.0,,,,Bayern
+K1990,Besucher,m,34,46611.9,34.0,,,,Berlin
+K1521,Besucher,m,36,39625.22,55.0,,,,Bayern
+K1318,Besucher,m,70,97897.05,60.0,,,,Berlin
+K1138,Besucher,m,43,68343.43,32.0,,,,Nordrhein-Westfalen
+K1136,Besucher,m,59,68648.91,32.0,,,,Nordrhein-Westfalen
+K1773,Besucher,w,34,42021.35,36.0,,,,Brandenburg
+K1689,Besucher,m,66,78363.18,26.0,,,,Baden-Württemberg
+K1619,Besucher,m,55,67416.14,31.0,,,,Nordrhein-Westfalen
+K1793,Besucher,w,57,75132.7,41.0,,,,Bayern
+K1214,Besucher,m,52,54277.2,48.0,,,,Nordrhein-Westfalen
+K1182,Besucher,w,62,83975.47,33.0,,,,Bayern
+K1716,Besucher,m,42,60427.73,44.0,,,,Sachsen
+K1748,Besucher,m,67,87075.04,59.0,,,,Niedersachsen
+K1187,Besucher,m,55,76311.86,41.0,,,,Baden-Württemberg
+K1623,Besucher,m,31,38298.53,3.0,,,,Nordrhein-Westfalen
+K1762,Besucher,w,33,35653.84,26.0,,,,Nordrhein-Westfalen
+K1401,Besucher,w,37,51507.44,34.0,,,,Niedersachsen
+K1612,Besucher,m,43,58161.76,31.0,,,,Nordrhein-Westfalen
+K1913,Besucher,m,30,38642.92,35.0,,,,Bayern
+K1480,Besucher,w,46,56617.22,31.0,,,,Hessen
+K1110,Besucher,m,37,38266.32,36.0,,,,Baden-Württemberg
+K1159,Besucher,m,41,52447.56,48.0,,,,Sachsen
+K1503,Besucher,w,48,63015.2,50.0,,,,Berlin
+K1562,Besucher,m,45,44514.71,37.0,,,,Berlin
+K1626,Besucher,m,33,20924.69,36.0,,,,Baden-Württemberg
+K1468,Besucher,m,62,77172.35,36.0,,,,Baden-Württemberg
+K1202,Besucher,w,67,68054.56,40.0,,,,Niedersachsen
+K1522,Besucher,m,46,57346.44,32.0,,,,Hamburg
+K1677,Besucher,m,52,74487.89,41.0,,,,Bayern
+K1957,Besucher,m,46,54308.49,32.0,,,,Brandenburg
+K1538,Besucher,m,48,68669.4,41.0,,,,Niedersachsen
+K1878,Besucher,m,54,70603.64,13.0,,,,Sachsen
+K1130,Besucher,m,44,46191.88,45.0,,,,Baden-Württemberg
+K1189,Besucher,w,63,66297.53,43.0,,,,Niedersachsen
+K1115,Besucher,m,47,46132.95,38.0,,,,Nordrhein-Westfalen
+K1436,Besucher,w,35,55240.05,24.0,,,,Nordrhein-Westfalen
+K1838,Besucher,w,66,78220.58,41.0,,,,Sachsen
+K1487,Besucher,m,52,67495.8,25.0,,,,Nordrhein-Westfalen
+K1809,Besucher,m,36,48519.27,30.0,,,,Baden-Württemberg
+K1918,Besucher,w,33,44999.02,18.0,,,,Baden-Württemberg
+K1223,Besucher,w,54,49679.67,24.0,,,,Sachsen
+K1641,Besucher,m,45,51504.43,50.0,,,,Baden-Württemberg
+K1466,Besucher,m,40,57367.43,31.0,,,,Baden-Württemberg
+K1134,Besucher,w,61,80750.62,24.0,,,,Sachsen
+K1160,Besucher,w,57,63456.63,45.0,,,,Bayern
+K1970,Besucher,m,52,45802.03,25.0,,,,Baden-Württemberg
+K1700,Besucher,w,53,58520.52,20.0,,,,Brandenburg
+K1344,Besucher,w,51,56254.2,17.0,,,,Berlin
+K1826,Besucher,w,68,77479.77,45.0,,,,Baden-Württemberg
+K1186,Besucher,m,68,80288.2,19.0,,,,Brandenburg
+K1364,Besucher,w,42,37936.98,30.0,,,,Sachsen
+K1591,Besucher,m,57,50221.96,47.0,,,,Bayern
+K1821,Besucher,m,38,48379.32,43.0,,,,Thüringen
+K1905,Besucher,m,69,98029.0,37.0,,,,Bayern
+K1886,Besucher,w,66,82388.16,34.0,,,,Hessen
+K1647,Besucher,w,53,69200.65,25.0,,,,Berlin
+K1431,Besucher,w,54,59334.77,34.0,,,,Baden-Württemberg
+K1639,Besucher,m,46,49472.26,36.0,,,,Bayern
+K1640,Besucher,m,50,61480.98,44.0,,,,Baden-Württemberg
+K1588,Besucher,w,33,54044.93,30.0,,,,Bayern
+K1867,Besucher,w,50,66940.79,32.0,,,,Thüringen
+K1638,Besucher,w,65,74982.31,27.0,,,,Hessen
+K1818,Besucher,m,65,62675.6,33.0,,,,Baden-Württemberg
+K1495,Besucher,m,65,85235.07,44.0,,,,Nordrhein-Westfalen
+K1600,Besucher,m,39,23109.88,39.0,,,,Sachsen
+K1587,Besucher,m,48,55111.17,31.0,,,,Nordrhein-Westfalen
+K1482,Besucher,w,64,74797.72,28.0,,,,Niedersachsen
+K1470,Besucher,m,63,66343.41,53.0,,,,Baden-Württemberg
+K1517,Besucher,m,50,58484.54,40.0,,,,Thüringen
+K1573,Besucher,w,66,88621.24,44.0,,,,Hessen
+K1514,Besucher,w,36,30932.05,43.0,,,,Baden-Württemberg
+K1112,Besucher,m,64,70306.35,36.0,,,,Berlin
+K1685,Besucher,m,53,49633.95,30.0,,,,Nordrhein-Westfalen
+K1260,Besucher,w,66,69331.45,32.0,,,,Baden-Württemberg
+K1985,Besucher,w,37,51799.46,40.0,,,,Baden-Württemberg
+K1530,Besucher,m,38,51013.22,49.0,,,,Nordrhein-Westfalen
+K1206,Besucher,w,60,77364.77,34.0,,,,Bayern
+K1304,Besucher,w,62,69519.57,31.0,,,,Sachsen
+K1529,Besucher,w,40,52774.29,41.0,,,,Hessen
+K1403,Besucher,w,56,70615.55,15.0,,,,Brandenburg
+K1989,Besucher,w,39,43354.5,28.0,,,,Bayern
+K1352,Besucher,w,68,89005.39,22.0,,,,Baden-Württemberg
+K1583,Besucher,m,35,39196.71,26.0,,,,Bayern
+K1410,Besucher,w,58,74550.62,32.0,,,,Niedersachsen
+K1421,Besucher,m,65,83198.24,47.0,,,,Berlin
+K1107,Besucher,m,33,45748.43,55.0,,,,Niedersachsen
+K1510,Besucher,m,47,79607.67,47.0,,,,Berlin
+K1847,Besucher,m,47,59352.78,14.0,,,,Baden-Württemberg
+K1365,Besucher,m,60,55814.8,27.0,,,,Baden-Württemberg
+K1472,Besucher,m,52,66108.25,41.0,,,,Thüringen
+K1263,Besucher,m,69,85175.92,31.0,,,,Nordrhein-Westfalen
+K1659,Besucher,m,42,54182.12,26.0,,,,Nordrhein-Westfalen
+K1934,Besucher,m,44,52096.75,45.0,,,,Nordrhein-Westfalen
+K1782,Besucher,m,55,88482.68,26.0,,,,Berlin
+K1485,Besucher,w,56,83787.01,27.0,,,,Niedersachsen
+K1731,Besucher,w,40,38822.67,18.0,,,,Berlin
+K1407,Besucher,w,56,66000.86,32.0,,,,Berlin
+K1537,Besucher,w,52,33297.76,18.0,,,,Nordrhein-Westfalen
+K1627,Besucher,m,65,68211.38,20.0,,,,Berlin
+K1509,Besucher,m,37,50176.78,31.0,,,,Bayern
+K1948,Besucher,m,38,48780.18,18.0,,,,Niedersachsen
+K1460,Besucher,m,37,41519.4,33.0,,,,Bayern
+K1569,Besucher,m,36,50243.04,48.0,,,,Nordrhein-Westfalen
+K1858,Besucher,w,31,26018.93,32.0,,,,Baden-Württemberg
+K1317,Besucher,w,38,44672.54,36.0,,,,Bayern
+K1554,Besucher,w,44,50981.53,21.0,,,,Sachsen
+K1184,Besucher,m,59,70012.56,39.0,,,,Baden-Württemberg
+K1253,Besucher,m,38,29787.61,47.0,,,,Hamburg
+K1533,Besucher,m,33,35350.73,24.0,,,,Hessen
+K1165,Besucher,m,63,60561.81,38.0,,,,Bayern
+K1765,Besucher,m,49,58250.25,25.0,,,,Baden-Württemberg
+K1909,Besucher,m,47,56933.67,42.0,,,,Baden-Württemberg
+K1693,Besucher,w,51,54872.34,40.0,,,,Bayern
+K1870,Besucher,w,64,85441.93,42.0,,,,Sachsen
+K1370,Besucher,m,60,67965.91,29.0,,,,Bayern
+K1238,Besucher,m,48,48300.49,28.0,,,,Baden-Württemberg
+K1813,Besucher,w,63,86198.61,32.0,,,,Nordrhein-Westfalen
+K1649,Besucher,w,54,53806.65,37.0,,,,Sachsen
+K1451,Besucher,w,57,78842.38,24.0,,,,Berlin
+K1926,Besucher,w,68,86965.52,15.0,,,,Berlin
+K1738,Besucher,m,47,50383.0,35.0,,,,Baden-Württemberg
+K1561,Besucher,m,31,61880.0,25.0,,,,Brandenburg
+K1605,Besucher,w,42,54815.06,34.0,,,,Baden-Württemberg
+K1535,Besucher,m,57,60410.82,33.0,,,,Baden-Württemberg
+K1550,Besucher,m,42,49912.51,26.0,,,,Sachsen
+K1755,Besucher,m,48,51462.33,20.0,,,,Niedersachsen
+K1277,Besucher,m,64,67482.49,10.0,,,,Bayern
+K1555,Besucher,w,40,59391.91,37.0,,,,Brandenburg
+K1419,Besucher,m,58,71796.78,26.0,,,,Berlin
+K1437,Besucher,m,64,85476.75,27.0,,,,Hamburg
+K1906,Besucher,m,67,94337.55,27.0,,,,Hessen
+K1195,Besucher,m,57,52369.61,42.0,,,,Thüringen
+K1939,Besucher,m,63,71786.87,40.0,,,,Bayern
+K1286,Besucher,w,40,39209.65,43.0,,,,Sachsen
+K1686,Besucher,w,41,50331.8,48.0,,,,Niedersachsen
+K1900,Besucher,m,33,47738.8,47.0,,,,Baden-Württemberg
+K1174,Besucher,m,57,51230.94,28.0,,,,Sachsen
+K1236,Besucher,w,62,64399.17,18.0,,,,Berlin
+K1439,Besucher,m,67,71626.53,29.0,,,,Bayern
+K1702,Besucher,m,35,50926.49,35.0,,,,Sachsen
+K1240,Besucher,m,51,66518.31,22.0,,,,Nordrhein-Westfalen
+K1269,Besucher,m,69,80266.52,36.0,,,,Niedersachsen
+K1133,Besucher,w,46,42528.58,44.0,,,,Nordrhein-Westfalen
+K1888,Besucher,w,63,75258.59,50.0,,,,Thüringen
+K1298,Besucher,w,44,50005.0,23.0,,,,Bayern
+K1974,Besucher,w,39,35225.3,48.0,,,,Niedersachsen
+K1820,Besucher,m,33,24242.6,42.0,,,,Berlin
+K1630,Besucher,m,42,54485.35,33.0,,,,Bayern
+K1486,Besucher,m,65,81926.5,48.0,,,,Bayern
+K1245,Besucher,m,40,51957.05,16.0,,,,Sachsen
+K1278,Besucher,m,36,47469.13,18.0,,,,Bayern
+K1111,Besucher,m,38,50640.42,28.0,,,,Bayern
+K1823,Besucher,m,51,55860.34,44.0,,,,Baden-Württemberg
+K1790,Besucher,w,66,68505.93,37.0,,,,Bayern
+K1178,Besucher,m,33,31654.71,31.0,,,,Bayern
+K1987,Besucher,m,44,54025.6,30.0,,,,Nordrhein-Westfalen
+K1433,Besucher,m,47,61371.86,42.0,,,,Bayern
+K1558,Besucher,m,33,37067.78,47.0,,,,Nordrhein-Westfalen
+K1250,Besucher,m,58,62171.39,26.0,,,,Baden-Württemberg
+K1339,Besucher,m,67,76785.42,15.0,,,,Hessen
+K1325,Besucher,w,40,35558.52,31.0,,,,Baden-Württemberg
+K1475,Besucher,m,32,20329.57,30.0,,,,Bayern
+K1916,Besucher,m,30,29694.37,30.0,,,,Niedersachsen
+K1237,Besucher,m,39,63156.46,41.0,,,,Berlin
+K1799,Besucher,w,59,71024.58,28.0,,,,Hessen
+K1969,Besucher,m,51,70533.44,7.0,,,,Baden-Württemberg
+K1290,Besucher,m,67,86403.29,29.0,,,,Hessen
+K1146,Besucher,m,47,67161.18,36.0,,,,Berlin
+K1652,Besucher,w,31,54066.71,45.0,,,,Bayern
+K1213,Besucher,w,36,29204.05,27.0,,,,Bayern
+K1708,Besucher,w,40,59102.58,29.0,,,,Bayern
+K1161,Besucher,w,69,78816.43,61.0,,,,Nordrhein-Westfalen
+K1499,Besucher,m,69,79027.08,24.0,,,,Berlin
+K1811,Besucher,w,38,66319.92,43.0,,,,Baden-Württemberg
+K1654,Besucher,m,51,71227.26,33.0,,,,Hessen
+K1129,Besucher,m,31,35916.95,34.0,,,,Bayern
+K1456,Besucher,m,38,44788.12,22.0,,,,Sachsen
+K1534,Besucher,m,65,73604.97,45.0,,,,Berlin
+K1539,Besucher,m,66,65216.98,13.0,,,,Baden-Württemberg
+K1156,Besucher,w,53,58268.38,57.0,,,,Niedersachsen
+K1631,Besucher,m,66,81322.78,42.0,,,,Thüringen
+K1921,Besucher,w,52,59034.5,22.0,,,,Berlin
+K1674,Besucher,w,46,54677.39,37.0,,,,Thüringen
+K1369,Besucher,m,44,49839.08,31.0,,,,Baden-Württemberg
+K1541,Besucher,m,53,70483.68,18.0,,,,Baden-Württemberg
+K1718,Besucher,w,70,86136.19,39.0,,,,Baden-Württemberg
+K1798,Besucher,m,41,46277.31,14.0,,,,Bayern
+K1457,Besucher,m,58,83377.64,25.0,,,,Nordrhein-Westfalen
+K1123,Besucher,w,43,38133.97,27.0,,,,Baden-Württemberg
+K1771,Besucher,m,43,61618.75,24.0,,,,Bayern
+K1687,Besucher,m,52,66931.63,26.0,,,,Baden-Württemberg
+K1188,Besucher,w,66,82714.6,16.0,,,,Nordrhein-Westfalen
+K1166,Besucher,m,40,49390.74,51.0,,,,Nordrhein-Westfalen
+K1377,Besucher,m,38,46307.32,33.0,,,,Hessen
+K1390,Besucher,m,57,84130.84,56.0,,,,Nordrhein-Westfalen
+K1800,Besucher,w,61,61255.99,22.0,,,,Niedersachsen
+K1851,Besucher,m,66,64549.9,26.0,,,,Sachsen
+K1117,Besucher,w,37,37026.7,52.0,,,,Thüringen
+K1287,Besucher,w,37,41986.48,42.0,,,,Bayern
+K1549,Besucher,m,58,63296.69,17.0,,,,Baden-Württemberg
+K1657,Besucher,w,51,67323.15,46.0,,,,Berlin
+K1328,Besucher,w,55,63084.95,34.0,,,,Baden-Württemberg
+K1618,Besucher,m,66,84640.63,34.0,,,,Berlin
+K1733,Besucher,w,57,81289.88,31.0,,,,Berlin
+K1692,Besucher,m,35,44388.75,30.0,,,,Baden-Württemberg
+K1797,Besucher,m,43,49717.8,46.0,,,,Niedersachsen
+K1628,Besucher,w,35,41206.23,39.0,,,,Sachsen
+K1769,Besucher,w,62,72706.65,50.0,,,,Nordrhein-Westfalen
+K1281,Besucher,m,54,72310.2,35.0,,,,Berlin
+K1946,Besucher,m,60,74192.86,25.0,,,,Berlin
+K1783,Besucher,w,31,40364.83,20.0,,,,Niedersachsen
+K1268,Besucher,w,62,77712.61,29.0,,,,Hessen
+K1353,Besucher,m,55,66068.48,35.0,,,,Hessen
+K1675,Besucher,m,69,78275.29,30.0,,,,Thüringen
+K1892,Besucher,m,65,75316.25,43.0,,,,Nordrhein-Westfalen
+K1179,Besucher,m,56,58982.67,16.0,,,,Bayern
+K1218,Besucher,m,38,46195.15,26.0,,,,Bayern
+K1740,Besucher,m,70,69727.41,35.0,,,,Brandenburg
+K1606,Besucher,m,66,79151.83,35.0,,,,Nordrhein-Westfalen
+K1209,Besucher,w,40,67881.4,41.0,,,,Baden-Württemberg
+K1219,Besucher,w,47,52534.52,50.0,,,,Berlin
+K1473,Besucher,m,36,41110.88,36.0,,,,Baden-Württemberg
+K1197,Besucher,m,67,75807.66,46.0,,,,Baden-Württemberg
+K1602,Besucher,m,40,39443.82,48.0,,,,Niedersachsen
+K1194,Besucher,w,68,64541.88,31.0,,,,Hessen
+K1441,Besucher,w,47,52745.13,24.0,,,,Hamburg
+K1984,Besucher,w,30,31232.14,52.0,,,,Nordrhein-Westfalen
+K1922,Besucher,w,70,83902.95,49.0,,,,Niedersachsen
+K1933,Besucher,w,45,59679.66,25.0,,,,Thüringen
+K1648,Besucher,w,32,28689.47,41.0,,,,Sachsen
+K1653,Besucher,m,44,59093.2,34.0,,,,Berlin
+K1199,Besucher,w,47,43409.22,32.0,,,,Sachsen
+K1116,Besucher,w,62,77682.56,28.0,,,,Nordrhein-Westfalen
+K1536,Besucher,w,42,34572.63,42.0,,,,Niedersachsen
+K1148,Besucher,m,66,77908.29,41.0,,,,Nordrhein-Westfalen
+K1147,Besucher,m,53,44536.67,36.0,,,,Nordrhein-Westfalen
+K1434,Besucher,m,44,48650.04,45.0,,,,Sachsen
+K1272,Besucher,m,46,52041.42,28.0,,,,Bayern
+K1884,Besucher,m,62,85386.12,35.0,,,,Baden-Württemberg
+K1642,Besucher,m,45,39956.12,34.0,,,,Baden-Württemberg
+K1840,Besucher,m,55,70713.58,40.0,,,,Berlin
+K1604,Besucher,m,30,42439.49,49.0,,,,Berlin
+K1283,Besucher,m,53,55541.96,50.0,,,,Sachsen
+K1688,Besucher,m,56,62958.24,28.0,,,,Bayern
+K1889,Besucher,m,70,76890.75,37.0,,,,Berlin
+K1698,Besucher,m,55,67803.2,39.0,,,,Baden-Württemberg
+K1282,Besucher,m,32,47052.41,30.0,,,,Nordrhein-Westfalen
+K1749,Besucher,m,59,70568.66,43.0,,,,Bayern
+K1815,Besucher,w,38,31258.41,39.0,,,,Berlin
+K1720,Besucher,w,38,42954.3,39.0,,,,Baden-Württemberg
+K1488,Besucher,m,61,84321.03,44.0,,,,Baden-Württemberg
+K1362,Besucher,m,46,60088.45,38.0,,,,Bayern
+K1839,Besucher,m,46,71444.46,23.0,,,,Niedersachsen
+K1440,Besucher,m,34,34255.88,34.0,,,,Sachsen
+K1656,Besucher,m,47,50532.95,32.0,,,,Brandenburg
+K1120,Besucher,m,63,79754.38,42.0,,,,Nordrhein-Westfalen
+K1108,Besucher,m,57,58633.97,32.0,,,,Thüringen
+K1516,Besucher,w,65,62351.09,40.0,,,,Bayern
+K1361,Besucher,w,53,72003.35,34.0,,,,Nordrhein-Westfalen
+K1556,Besucher,m,63,79995.43,23.0,,,,Hessen
+K1578,Besucher,m,35,33793.85,41.0,,,,Berlin
+K1802,Besucher,m,61,79736.85,31.0,,,,Niedersachsen
+K1498,Besucher,m,69,98883.19,29.0,,,,Hessen
+K1327,Besucher,w,68,92374.32,44.0,,,,Baden-Württemberg
+K1611,Besucher,m,70,92238.95,38.0,,,,Bayern
+K1672,Besucher,w,57,52972.58,47.0,,,,Sachsen
+K1525,Besucher,m,36,47024.3,26.0,,,,Baden-Württemberg
+K1429,Besucher,w,41,45176.52,33.0,,,,Berlin
+K1635,Besucher,w,49,52713.56,43.0,,,,Baden-Württemberg
+K1114,Besucher,m,50,43389.67,38.0,,,,Niedersachsen
+K1354,Besucher,m,69,79689.65,51.0,,,,Bayern
+K1127,Besucher,w,41,53765.36,21.0,,,,Niedersachsen
+K1461,Besucher,m,49,57703.97,27.0,,,,Berlin
+K1326,Besucher,m,65,73776.47,33.0,,,,Niedersachsen
+K1706,Besucher,m,41,56806.22,32.0,,,,Bayern
+K1871,Besucher,m,34,34204.32,43.0,,,,Nordrhein-Westfalen
+K1979,Besucher,m,59,85332.23,21.0,,,,Nordrhein-Westfalen
+K1633,Besucher,m,55,58756.75,34.0,,,,Nordrhein-Westfalen
+K1445,Besucher,m,61,81435.3,40.0,,,,Niedersachsen
+K1848,Besucher,m,39,63688.04,20.0,,,,Berlin
+K1624,Besucher,w,51,46823.72,41.0,,,,Bayern
+K1308,Besucher,m,50,67276.38,29.0,,,,Hessen
+K1342,Besucher,w,45,70632.18,52.0,,,,Sachsen
+K1198,Besucher,m,33,36719.1,35.0,,,,Nordrhein-Westfalen
+K1835,Besucher,m,66,75021.35,27.0,,,,Bayern
+K1545,Besucher,w,63,65737.35,49.0,,,,Nordrhein-Westfalen
+K1664,Besucher,m,56,66606.82,15.0,,,,Bayern
+K1389,Besucher,m,42,42036.49,36.0,,,,Bayern
+K1289,Besucher,w,64,82889.73,44.0,,,,Baden-Württemberg
+K1896,Besucher,w,55,55421.1,29.0,,,,Niedersachsen
+K1592,Besucher,w,59,59731.07,30.0,,,,Nordrhein-Westfalen
+K1258,Besucher,m,63,78072.77,30.0,,,,Bayern
+K1180,Besucher,m,65,91807.01,45.0,,,,Nordrhein-Westfalen
+K1761,Besucher,m,53,65662.15,48.0,,,,Thüringen
+K1736,Besucher,m,36,29607.14,23.0,,,,Bayern
+K1382,Besucher,m,56,70410.8,39.0,,,,Bayern
+K1173,Besucher,w,47,63119.27,51.0,,,,Bayern
+K1930,Besucher,m,42,44380.59,30.0,,,,Bayern
+K1293,Besucher,m,56,71443.22,31.0,,,,Bayern
+K1376,Besucher,w,66,66735.69,26.0,,,,Nordrhein-Westfalen
+K1767,Besucher,m,30,40283.17,50.0,,,,Baden-Württemberg
+K1816,Besucher,m,49,54140.6,29.0,,,,Baden-Württemberg
+K1341,Besucher,w,33,36224.0,52.0,,,,Baden-Württemberg
+K1193,Besucher,w,68,81230.95,46.0,,,,Hessen
+K1862,Besucher,m,57,65786.37,43.0,,,,Thüringen
+K1222,Besucher,w,43,59089.74,29.0,,,,Sachsen
+K1230,Besucher,m,39,58806.42,55.0,,,,Niedersachsen
+K1836,Besucher,m,68,80798.29,43.0,,,,Nordrhein-Westfalen
+K1394,Besucher,w,36,38942.81,35.0,,,,Nordrhein-Westfalen
+K1343,Besucher,w,36,46373.46,36.0,,,,Bayern
+K1105,Besucher,w,42,57149.5,35.0,,,,Hessen
+K1986,Besucher,w,42,52174.79,38.0,,,,Bayern
+K1572,Besucher,m,42,46178.96,28.0,,,,Hessen
+K1932,Besucher,w,34,26418.8,45.0,,,,Sachsen
+K1500,Besucher,m,41,55038.3,41.0,,,,Hessen
+K1636,Besucher,w,62,71314.98,37.0,,,,Sachsen
+K1231,Besucher,w,33,49527.66,25.0,,,,Baden-Württemberg
+K1383,Besucher,w,54,53583.85,39.0,,,,Nordrhein-Westfalen
+K1796,Besucher,m,39,56179.02,29.0,,,,Nordrhein-Westfalen
+K1221,Besucher,m,54,69210.98,40.0,,,,Nordrhein-Westfalen
+K1333,Besucher,m,33,28556.82,52.0,,,,Nordrhein-Westfalen
+K1727,Besucher,w,32,40946.28,28.0,,,,Hessen
+K1760,Besucher,m,50,56452.5,37.0,,,,Bayern
+K1703,Besucher,m,64,66775.56,11.0,,,,Berlin
+K1621,Besucher,w,51,41344.51,24.0,,,,Nordrhein-Westfalen
+K1379,Besucher,m,37,42547.27,45.0,,,,Berlin
+K1423,Besucher,m,60,59341.45,46.0,,,,Hessen
+K1711,Besucher,w,36,54638.64,31.0,,,,Sachsen
+K1249,Besucher,w,69,71732.25,26.0,,,,Hessen
+K1739,Besucher,m,47,41229.84,32.0,,,,Nordrhein-Westfalen
+K1663,Besucher,w,42,52868.09,22.0,,,,Baden-Württemberg
+K1914,Besucher,w,68,74031.33,41.0,,,,Baden-Württemberg
+K1850,Besucher,w,33,44278.57,51.0,,,,Nordrhein-Westfalen
+K1474,Besucher,w,54,71794.84,32.0,,,,Berlin
+K1373,Besucher,w,62,78050.89,49.0,,,,Baden-Württemberg
+K1728,Besucher,m,60,80978.82,28.0,,,,Nordrhein-Westfalen
+K1412,Besucher,m,45,51056.51,33.0,,,,Nordrhein-Westfalen
+K1528,Besucher,m,53,64432.7,41.0,,,,Baden-Württemberg
+K1415,Besucher,w,48,62342.15,32.0,,,,Niedersachsen
+K1459,Besucher,w,51,56363.69,35.0,,,,Hamburg
+K1151,Besucher,m,63,72396.21,48.0,,,,Niedersachsen
+K1454,Besucher,w,34,26142.98,50.0,,,,Brandenburg
+K1476,Besucher,m,67,87205.9,47.0,,,,Sachsen
+K1584,Besucher,w,58,65207.45,27.0,,,,Baden-Württemberg
+K1681,Besucher,m,39,48650.33,45.0,,,,Nordrhein-Westfalen
+K1366,Besucher,m,58,80403.6,25.0,,,,Baden-Württemberg
+K1300,Besucher,w,62,68355.77,35.0,,,,Thüringen
+K1995,Besucher,m,49,54754.53,44.0,,,,Sachsen
+K1849,Besucher,m,53,59447.26,48.0,,,,Nordrhein-Westfalen
+K1212,Besucher,m,52,67687.35,47.0,,,,Baden-Württemberg
+K1971,Besucher,w,41,43844.86,51.0,,,,Niedersachsen
+K1164,Besucher,m,50,56874.93,32.0,,,,Berlin
+K1763,Besucher,m,41,45205.48,26.0,,,,Baden-Württemberg
+K1368,Besucher,w,56,66037.86,33.0,,,,Berlin
+K1673,Besucher,m,58,70704.0,38.0,,,,Hessen
+K1205,Besucher,w,32,57455.89,42.0,,,,Niedersachsen
+K1548,Besucher,w,60,78010.02,40.0,,,,Thüringen
+K1595,Besucher,m,54,54716.55,39.0,,,,Sachsen
+K1792,Besucher,m,68,74173.37,41.0,,,,Thüringen
+K1904,Besucher,m,45,56233.72,46.0,,,,Bayern
+K1745,Besucher,m,63,72230.76,25.0,,,,Nordrhein-Westfalen
+K1274,Besucher,m,63,68751.57,39.0,,,,Baden-Württemberg
+K1284,Besucher,w,63,81446.36,12.0,,,,Niedersachsen
+K1409,Besucher,w,52,63037.62,42.0,,,,Baden-Württemberg
+K1446,Besucher,m,55,63242.91,35.0,,,,Baden-Württemberg
+K1162,Besucher,m,36,49453.96,36.0,,,,Baden-Württemberg
+K1963,Besucher,m,30,46530.32,45.0,,,,Nordrhein-Westfalen
+K1254,Besucher,m,31,47601.83,29.0,,,,Hamburg
+K1229,Besucher,m,69,78663.94,37.0,,,,Niedersachsen
+K1808,Besucher,w,68,75303.56,27.0,,,,Nordrhein-Westfalen
+K1155,Besucher,m,51,57040.85,38.0,,,,Sachsen
+K1458,Besucher,m,45,44138.66,31.0,,,,Bayern
+K1928,Besucher,m,49,50246.09,42.0,,,,Sachsen
+K1247,Besucher,w,41,54152.49,15.0,,,,Berlin
+K1575,Besucher,w,70,71511.58,47.0,,,,Nordrhein-Westfalen
+K1504,Besucher,m,32,32659.51,27.0,,,,Bayern
+K1680,Besucher,m,63,74905.16,35.0,,,,Hessen
+K1425,Besucher,w,46,53575.61,54.0,,,,Hessen
+K1124,Besucher,w,32,34848.44,24.0,,,,Nordrhein-Westfalen
+K1897,Besucher,m,65,70533.06,38.0,,,,Nordrhein-Westfalen
+K1812,Besucher,m,51,53267.39,53.0,,,,Berlin
+K1828,Besucher,w,35,53193.86,33.0,,,,Thüringen
+K1512,Besucher,w,41,64926.19,39.0,,,,Hamburg
+K1662,Besucher,w,55,65102.4,22.0,,,,Bayern
+K1143,Besucher,w,53,64075.21,36.0,,,,Nordrhein-Westfalen
+K1280,Besucher,w,49,67290.6,30.0,,,,Hessen
+K1350,Besucher,m,41,35323.88,24.0,,,,Sachsen
+K1845,Besucher,w,59,63141.81,31.0,,,,Sachsen
+K1707,Besucher,m,67,78936.72,34.0,,,,Niedersachsen
+K1873,Besucher,m,51,76712.26,36.0,,,,Baden-Württemberg
+K1869,Besucher,m,44,48523.86,54.0,,,,Sachsen
+K1259,Besucher,w,37,41367.82,31.0,,,,Nordrhein-Westfalen
+K1392,Besucher,m,64,68522.84,43.0,,,,Sachsen
+K1855,Besucher,m,42,50054.07,36.0,,,,Nordrhein-Westfalen
+K1122,Besucher,m,51,64923.25,39.0,,,,Nordrhein-Westfalen
+K1232,Besucher,m,48,57701.19,22.0,,,,Nordrhein-Westfalen
+K1427,Besucher,w,38,25073.67,44.0,,,,Berlin
+K1360,Besucher,w,54,59813.59,39.0,,,,Berlin
+K1875,Besucher,m,52,55752.8,42.0,,,,Bayern
+K1961,Besucher,m,31,35492.79,39.0,,,,Nordrhein-Westfalen
+K1295,Besucher,w,69,75983.22,47.0,,,,Hessen
+K1220,Besucher,m,70,57964.51,20.0,,,,Hessen
+K1842,Besucher,w,37,38361.79,25.0,,,,Nordrhein-Westfalen
+K1285,Besucher,w,51,67445.38,38.0,,,,Bayern
+K1406,Besucher,m,41,40291.76,40.0,,,,Thüringen
+K1784,Besucher,m,45,34928.93,14.0,,,,Bayern
+K1743,Besucher,w,69,95449.9,35.0,,,,Berlin
+K1754,Besucher,w,30,44854.02,36.0,,,,Hessen
+K1721,Besucher,w,60,74006.41,43.0,,,,Bayern
+K1701,Besucher,m,67,92235.91,29.0,,,,Bayern
+K1622,Besucher,w,54,81957.21,31.0,,,,Berlin
+K1980,Besucher,w,31,31912.96,29.0,,,,Bayern
+K1150,Besucher,w,67,100322.37,50.0,,,,Bayern
+K1912,Besucher,m,47,56853.9,43.0,,,,Bayern
+K1262,Besucher,w,35,33579.07,34.0,,,,Baden-Württemberg
+K1770,Besucher,w,53,50242.76,32.0,,,,Nordrhein-Westfalen
+K1276,Besucher,w,52,58522.3,36.0,,,,Sachsen
+K1121,Besucher,w,35,35620.92,33.0,,,,Bayern
+K1616,Besucher,m,58,68324.7,35.0,,,,Bayern
+K1153,Besucher,m,44,64786.55,56.0,,,,Baden-Württemberg
+K1967,Besucher,w,32,45043.61,17.0,,,,Nordrhein-Westfalen
+K1854,Besucher,m,54,72200.31,33.0,,,,Hessen
+K1620,Besucher,w,46,61880.0,40.0,,,,Sachsen
+K1722,Besucher,m,70,97121.14,36.0,,,,Baden-Württemberg
+K1585,Besucher,m,68,91036.08,40.0,,,,Brandenburg
+K1388,Besucher,w,34,55437.45,41.0,,,,Sachsen
+K1694,Besucher,w,70,67947.51,18.0,,,,Bayern
+K1330,Besucher,w,68,67645.33,51.0,,,,Berlin
+K1131,Besucher,m,52,71199.25,29.0,,,,Berlin
+K1953,Besucher,m,34,31569.14,58.0,,,,Baden-Württemberg
+K1542,Besucher,m,45,50681.69,41.0,,,,Hessen
+K1949,Besucher,m,39,42755.06,30.0,,,,Hessen
+K1469,Besucher,w,60,61876.05,20.0,,,,Hessen
+K1334,Besucher,m,59,77392.45,44.0,,,,Hessen
+K1142,Besucher,m,35,31305.75,27.0,,,,Baden-Württemberg
+K1962,Besucher,w,66,76359.21,22.0,,,,Sachsen
+K1479,Besucher,m,59,58008.72,35.0,,,,Baden-Württemberg
+K1574,Besucher,m,31,41923.37,33.0,,,,Nordrhein-Westfalen
+K1964,Besucher,m,33,37291.98,27.0,,,,Bayern
+K1863,Besucher,w,64,80850.54,36.0,,,,Baden-Württemberg
+K1756,Besucher,m,31,24167.81,41.0,,,,Niedersachsen
+K1299,Besucher,m,46,47676.4,55.0,,,,Bayern
+K1865,Besucher,w,39,40081.02,53.0,,,,Nordrhein-Westfalen
+K1973,Besucher,m,63,84772.48,30.0,,,,Nordrhein-Westfalen
+K1608,Besucher,m,30,21238.03,30.0,,,,Berlin
+K1966,Besucher,w,54,53423.91,36.0,,,,Hamburg
+K1846,Besucher,m,49,55265.13,57.0,,,,Baden-Württemberg
+K1684,Besucher,w,65,79612.09,34.0,,,,Hessen
+K1993,Besucher,w,40,41616.57,48.0,,,,Nordrhein-Westfalen
+K1267,Besucher,w,30,54906.98,36.0,,,,Nordrhein-Westfalen
+K1735,Besucher,w,67,67953.51,38.0,,,,Niedersachsen
+K1257,Besucher,m,39,54069.63,42.0,,,,Bayern
+K1789,Besucher,m,58,68239.82,38.0,,,,Baden-Württemberg
+K1734,Besucher,m,39,47801.25,29.0,,,,Baden-Württemberg
+K1780,Besucher,w,42,54451.39,17.0,,,,Hessen
+K1216,Besucher,m,63,72872.41,32.0,,,,Brandenburg
+K1331,Besucher,m,69,77933.08,43.0,,,,Thüringen
+K1723,Besucher,m,39,39742.26,37.0,,,,Niedersachsen
+K1208,Besucher,m,48,46968.11,16.0,,,,Hessen
+K1526,Besucher,m,62,84204.71,68.0,,,,Bayern
+K1524,Besucher,m,59,64971.4,29.0,,,,Sachsen
+K1691,Besucher,m,30,25293.09,37.0,,,,Sachsen
+K1224,Besucher,w,48,57289.9,16.0,,,,Nordrhein-Westfalen
+K1158,Besucher,m,47,53602.48,33.0,,,,Nordrhein-Westfalen
+K1256,Besucher,m,62,70856.65,40.0,,,,Berlin
+K1508,Besucher,m,45,65988.52,55.0,,,,Sachsen
+K1944,Besucher,m,61,43123.9,46.0,,,,Baden-Württemberg
+K1312,Besucher,m,42,41050.16,27.0,,,,Baden-Württemberg
+K1857,Besucher,w,53,61112.06,20.0,,,,Baden-Württemberg
+K1822,Besucher,m,70,79595.02,51.0,,,,Thüringen
+K1113,Besucher,w,66,76115.95,59.0,,,,Bayern
+K1827,Besucher,m,38,29634.42,42.0,,,,Baden-Württemberg
+K1141,Besucher,m,61,62738.78,27.0,,,,Niedersachsen
+K1557,Besucher,m,68,94379.27,35.0,,,,Niedersachsen
+K1358,Besucher,m,42,67920.23,48.0,,,,Berlin
+K1408,Besucher,m,37,39083.36,33.0,,,,Baden-Württemberg
+K1772,Besucher,m,65,77272.17,41.0,,,,Berlin
+K1676,Besucher,m,50,62488.35,12.0,,,,Berlin
+K1741,Besucher,w,53,59582.22,31.0,,,,Hessen
+K1819,Besucher,w,69,64084.61,52.0,,,,Bayern
+K1367,Besucher,w,57,50717.29,26.0,,,,Nordrhein-Westfalen
+K1715,Besucher,m,62,80655.27,35.0,,,,Sachsen
+K1402,Besucher,w,46,49160.78,39.0,,,,Bayern
+K1519,Besucher,m,53,68336.2,33.0,,,,Sachsen
+K1255,Besucher,w,58,49653.39,38.0,,,,Nordrhein-Westfalen
+K1810,Besucher,m,56,72358.43,44.0,,,,Thüringen
+K1894,Besucher,w,44,67182.05,38.0,,,,Nordrhein-Westfalen
+K1655,Besucher,w,39,50353.63,41.0,,,,Hessen
+K1593,Besucher,m,36,48307.1,16.0,,,,Baden-Württemberg
+K1252,Besucher,m,31,28227.62,33.0,,,,Baden-Württemberg
+K1251,Besucher,m,59,71174.38,49.0,,,,Hessen
+K1941,Besucher,w,43,59150.94,31.0,,,,Thüringen
+K1931,Besucher,w,30,40098.98,40.0,,,,Sachsen
+K1975,Besucher,m,59,61744.01,27.0,,,,Thüringen
+K1453,Besucher,m,49,64640.81,38.0,,,,Brandenburg
+K1568,Besucher,w,48,57581.12,57.0,,,,Baden-Württemberg
+K1430,Besucher,m,61,71947.51,33.0,,,,Baden-Württemberg
+K1291,Besucher,m,37,57751.77,24.0,,,,Baden-Württemberg
+K1228,Besucher,w,56,59483.17,53.0,,,,Baden-Württemberg
+K1864,Besucher,m,68,82507.0,24.0,,,,Sachsen
+K1713,Besucher,w,65,77623.56,41.0,,,,Bayern
+K1248,Besucher,w,35,55165.48,16.0,,,,Nordrhein-Westfalen
+K1956,Besucher,w,60,70843.41,33.0,,,,Baden-Württemberg
+K1302,Besucher,m,58,68875.22,36.0,,,,Nordrhein-Westfalen
+K1714,Besucher,m,60,68566.29,20.0,,,,Berlin
+K1384,Besucher,w,42,54737.69,37.0,,,,Berlin
+K1398,Besucher,m,68,84266.91,43.0,,,,Berlin
+K1505,Besucher,w,47,68475.48,50.0,,,,Berlin
+K1227,Besucher,w,45,47805.5,36.0,,,,Berlin
+K1288,Besucher,w,68,68468.4,43.0,,,,Baden-Württemberg
+K1307,Besucher,w,50,61399.94,16.0,,,,Niedersachsen
+K1543,Besucher,w,62,80040.16,36.0,,,,Nordrhein-Westfalen
+K1351,Besucher,w,36,62517.51,35.0,,,,Nordrhein-Westfalen
+K1520,Besucher,w,54,65103.66,37.0,,,,Niedersachsen
+K1893,Besucher,w,65,72026.05,26.0,,,,Sachsen
+K1234,Besucher,m,50,38912.23,34.0,,,,Berlin
+K1742,Besucher,m,31,39505.52,15.0,,,,Hessen
+K1507,Besucher,m,35,33126.92,23.0,,,,Brandenburg
+K1899,Besucher,w,57,60794.36,32.0,,,,Bayern
+K1794,Besucher,m,58,58019.17,42.0,,,,Baden-Württemberg
+K1915,Besucher,m,50,54638.11,45.0,,,,Sachsen
+K1324,Besucher,w,54,69123.41,56.0,,,,Thüringen
+K1746,Besucher,m,55,69613.53,46.0,,,,Baden-Württemberg
+K1917,Besucher,m,44,49444.37,27.0,,,,Baden-Württemberg
+K1777,Besucher,m,42,50762.75,14.0,,,,Brandenburg
+K1920,Besucher,w,39,41453.37,40.0,,,,Niedersachsen
+K1729,Besucher,m,35,51809.93,49.0,,,,Baden-Württemberg
+K1960,Besucher,w,38,56413.98,43.0,,,,Bayern
+K1785,Besucher,m,67,71829.76,23.0,,,,Baden-Württemberg
+K1491,Besucher,w,67,64683.27,22.0,,,,Berlin
+K1968,Besucher,m,38,60883.5,41.0,,,,Thüringen
+K1614,Besucher,w,56,82205.14,43.0,,,,Hamburg
+K1372,Besucher,m,44,47045.73,38.0,,,,Nordrhein-Westfalen
+K1837,Besucher,m,48,84746.79,36.0,,,,Bayern
+K1546,Besucher,m,36,43538.46,26.0,,,,Hessen
+K1601,Besucher,m,57,72995.73,43.0,,,,Niedersachsen
+K1217,Besucher,m,48,70707.74,35.0,,,,Sachsen
+K1337,Besucher,w,42,48260.29,41.0,,,,Sachsen
+K1879,Besucher,m,56,76155.67,29.0,,,,Baden-Württemberg
+K1712,Besucher,m,40,26846.54,41.0,,,,Bayern
+K1776,Besucher,w,60,76138.01,36.0,,,,Sachsen
+K1478,Besucher,m,63,66691.27,52.0,,,,Bayern
+K1977,Besucher,m,35,35044.7,47.0,,,,Sachsen
+K1856,Besucher,w,47,55621.02,35.0,,,,Baden-Württemberg
+K1338,Besucher,m,60,67687.57,33.0,,,,Hessen
+K1911,Besucher,m,68,70848.87,33.0,,,,Brandenburg
+K1781,Besucher,m,53,79245.22,31.0,,,,Bayern
+K1422,Besucher,m,55,58431.49,46.0,,,,Nordrhein-Westfalen
+K1753,Besucher,w,63,74594.05,28.0,,,,Niedersachsen
+K1515,Besucher,w,30,44635.68,32.0,,,,Berlin
+K1903,Besucher,m,41,49170.38,36.0,,,,Baden-Württemberg
+K1463,Besucher,w,68,78649.11,37.0,,,,Nordrhein-Westfalen
+K1363,Besucher,m,31,43375.75,38.0,,,,Thüringen
+K1732,Besucher,w,44,68126.65,24.0,,,,Bayern
+K1737,Besucher,w,44,55445.95,45.0,,,,Bayern
+K1387,Besucher,m,66,79203.83,37.0,,,,Sachsen
+K1481,Besucher,w,39,59913.35,29.0,,,,Bayern
+K1489,Besucher,w,39,51488.13,14.0,,,,Bayern
+K1329,Besucher,m,43,53219.97,40.0,,,,Brandenburg
+K1951,Besucher,w,50,50945.52,45.0,,,,Baden-Württemberg
+K1833,Besucher,w,45,52765.76,42.0,,,,Hamburg
+K1577,Besucher,m,53,53443.31,39.0,,,,Nordrhein-Westfalen
+K1452,Besucher,m,35,31856.08,56.0,,,,Nordrhein-Westfalen
+K1610,Besucher,m,47,49585.99,42.0,,,,Bayern
+K1744,Besucher,m,49,63443.37,32.0,,,,Baden-Württemberg
+K1983,Besucher,m,41,49634.23,65.0,,,,Berlin
+K1929,Besucher,m,30,31802.09,38.0,,,,Hessen
+K1908,Besucher,m,58,52544.55,16.0,,,,Niedersachsen
+K1724,Besucher,m,31,34124.06,33.0,,,,Sachsen
+K1866,Besucher,m,30,58746.83,32.0,,,,Bayern
+K1750,Besucher,w,34,50643.74,29.0,,,,Bayern
+K1859,Besucher,m,62,63231.82,35.0,,,,Hessen
+K1661,Besucher,m,34,45507.99,39.0,,,,Nordrhein-Westfalen
+K1955,Besucher,m,59,85252.0,26.0,,,,Berlin
+K1682,Besucher,m,39,50013.89,31.0,,,,Nordrhein-Westfalen
+K1190,Besucher,m,36,43526.39,46.0,,,,Sachsen
+K1347,Besucher,m,62,59572.99,18.0,,,,Baden-Württemberg
+K1803,Besucher,m,55,62382.86,41.0,,,,Nordrhein-Westfalen
+K1264,Besucher,w,48,59163.82,41.0,,,,Berlin
+K1629,Besucher,m,50,73917.25,52.0,,,,Bayern
+K1140,Besucher,m,46,63048.01,31.0,,,,Berlin
+K1645,Besucher,m,57,54319.92,53.0,,,,Brandenburg
+K1275,Besucher,m,38,45342.45,40.0,,,,Berlin
+K1759,Besucher,w,52,68579.74,24.0,,,,Berlin
+K1891,Besucher,w,43,60901.04,52.0,,,,Hessen
+K1860,Besucher,w,48,65433.98,36.0,,,,Sachsen
+K1943,Besucher,m,57,64092.32,36.0,,,,Nordrhein-Westfalen
+K1200,Besucher,m,54,74220.58,45.0,,,,Nordrhein-Westfalen
+K1668,Besucher,m,59,56608.27,49.0,,,,Bayern
+K1345,Besucher,m,58,78517.61,24.0,,,,Baden-Württemberg
+K1679,Besucher,m,40,49709.41,20.0,,,,Thüringen
+K1795,Besucher,m,32,36992.28,26.0,,,,Hamburg
+K1565,Besucher,m,66,67550.85,18.0,,,,Sachsen
+K1658,Besucher,m,56,66602.0,55.0,,,,Thüringen
+K1885,Besucher,w,35,48822.83,21.0,,,,Baden-Württemberg
+K1311,Besucher,w,35,50251.18,39.0,,,,Nordrhein-Westfalen
+K1497,Besucher,m,46,44087.58,32.0,,,,Nordrhein-Westfalen
+K1502,Besucher,w,69,84659.69,32.0,,,,Baden-Württemberg
+K1861,Besucher,m,38,46151.09,18.0,,,,Niedersachsen
+K1322,Besucher,m,39,56023.57,59.0,,,,Baden-Württemberg
+K1109,Besucher,w,43,53592.01,31.0,,,,Nordrhein-Westfalen
+K1747,Besucher,m,36,46292.65,42.0,,,,Baden-Württemberg
+K1902,Besucher,w,51,53493.22,57.0,,,,Niedersachsen
+K1717,Besucher,m,47,63291.36,46.0,,,,Baden-Württemberg
+K1843,Besucher,w,62,74418.18,30.0,,,,Bayern
+K1651,Besucher,m,62,80098.84,37.0,,,,Sachsen
+K1830,Besucher,w,36,22706.33,35.0,,,,Baden-Württemberg
+K1788,Besucher,w,64,80694.14,20.0,,,,Baden-Württemberg
+K1203,Besucher,m,57,69354.04,51.0,,,,Thüringen
+K1832,Besucher,m,34,37661.69,28.0,,,,Bayern
+K1678,Besucher,w,49,70657.9,47.0,,,,Nordrhein-Westfalen
+K1511,Besucher,w,68,82209.9,36.0,,,,Nordrhein-Westfalen
+K1607,Besucher,w,49,67813.53,44.0,,,,Niedersachsen
+K1152,Besucher,m,69,69862.2,44.0,,,,Hessen
+K1137,Besucher,w,57,68849.42,30.0,,,,Berlin
+K1305,Besucher,w,58,64187.77,42.0,,,,Bayern
+K1239,Besucher,m,59,63241.9,33.0,,,,Berlin
+K1132,Besucher,m,58,81205.21,46.0,,,,Hessen
+K1952,Besucher,m,42,48307.88,41.0,,,,Berlin
+K1335,Besucher,m,41,51201.01,28.0,,,,Berlin
+K1594,Besucher,w,38,60020.88,25.0,,,,Niedersachsen
+K1483,Besucher,w,49,51392.5,40.0,,,,Baden-Württemberg
+K1393,Besucher,m,68,75570.02,35.0,,,,Berlin
+K1523,Besucher,w,58,74947.01,47.0,,,,Nordrhein-Westfalen
+K1779,Besucher,w,53,65983.03,48.0,,,,Baden-Württemberg
+K1496,Besucher,m,66,80806.38,22.0,,,,Bayern
+K1697,Besucher,m,44,60135.62,50.0,,,,Bayern
+K1603,Besucher,w,62,70449.09,24.0,,,,Niedersachsen
+K1243,Besucher,w,70,87311.65,46.0,,,,Berlin
+K1167,Besucher,m,51,43966.82,51.0,,,,Nordrhein-Westfalen
+K1576,Besucher,m,40,50404.68,39.0,,,,Baden-Württemberg
+K1752,Besucher,w,30,37308.87,30.0,,,,Berlin
+K1233,Besucher,w,57,77750.95,25.0,,,,Bayern
+K1972,Besucher,w,39,45047.55,28.0,,,,Nordrhein-Westfalen
+K1625,Besucher,w,34,33066.52,34.0,,,,Baden-Württemberg
+K1169,Besucher,m,58,57893.55,38.0,,,,Hessen
+K1119,Besucher,m,60,63515.36,44.0,,,,Nordrhein-Westfalen
+K1261,Besucher,w,62,77583.36,18.0,,,,Berlin
+K1145,Besucher,w,56,41843.15,40.0,,,,Berlin
+K1597,Besucher,w,30,40182.21,32.0,,,,Nordrhein-Westfalen
+K1484,Besucher,w,47,58432.85,22.0,,,,Baden-Württemberg
+K1292,Besucher,w,66,77161.38,15.0,,,,Baden-Württemberg
+K1868,Besucher,w,38,47188.89,41.0,,,,Bayern
+K1321,Besucher,w,41,49550.97,31.0,,,,Baden-Württemberg
+K1157,Besucher,w,30,30096.84,8.0,,,,Thüringen
+K1442,Besucher,w,45,48971.42,55.0,,,,Nordrhein-Westfalen
+K1853,Besucher,m,42,35264.29,42.0,,,,Baden-Württemberg
+K1824,Besucher,w,47,51429.79,24.0,,,,Nordrhein-Westfalen
+K1829,Besucher,m,48,73148.25,40.0,,,,Sachsen
+K1400,Besucher,w,51,69768.66,32.0,,,,Hessen
+K1806,Besucher,m,46,66328.14,20.0,,,,Berlin
+K1356,Besucher,w,70,66260.03,43.0,,,,Nordrhein-Westfalen
+K1831,Besucher,w,45,50109.83,25.0,,,,Baden-Württemberg
+K1566,Besucher,m,46,57509.97,43.0,,,,Hamburg
+K1560,Besucher,w,58,69209.45,34.0,,,,Nordrhein-Westfalen
+K1992,Besucher,m,67,81521.76,21.0,,,,Baden-Württemberg
+K1374,Besucher,m,49,60350.98,35.0,,,,Baden-Württemberg
+K1306,Besucher,m,42,53357.53,47.0,,,,Berlin
+K1266,Besucher,m,56,61601.84,48.0,,,,Bayern
+K1660,Besucher,m,62,65956.22,22.0,,,,Berlin
+K1834,Besucher,m,30,45591.21,26.0,,,,Hessen
+K1506,Besucher,w,48,43655.93,41.0,,,,Nordrhein-Westfalen
+K1807,Besucher,w,59,56316.93,35.0,,,,Niedersachsen
+K1581,Besucher,m,68,84969.4,24.0,,,,Berlin
+K1876,Besucher,m,36,43724.72,43.0,,,,Nordrhein-Westfalen
+K1210,Besucher,w,69,65999.38,44.0,,,,Bayern
+K1670,Besucher,m,43,53630.87,54.0,,,,Baden-Württemberg
+K1494,Besucher,m,63,81611.75,38.0,,,,Hessen
+K1106,Besucher,m,34,43358.56,33.0,,,,Berlin
+K1937,Besucher,w,52,54508.69,30.0,,,,Nordrhein-Westfalen
+K1666,Besucher,w,53,68187.64,35.0,,,,Baden-Württemberg
+K1185,Besucher,w,37,56717.59,40.0,,,,Bayern
+K1310,Besucher,m,39,40996.11,28.0,,,,Hessen
+K1139,Besucher,w,59,61880.0,35.0,,,,Bayern
+K1880,Besucher,m,70,72700.32,48.0,,,,Nordrhein-Westfalen
+K1613,Besucher,w,60,78633.97,41.0,,,,Nordrhein-Westfalen
+K1532,Besucher,m,64,67710.18,43.0,,,,Nordrhein-Westfalen
+K1559,Besucher,m,40,54688.48,43.0,,,,Baden-Württemberg
+K1471,Besucher,m,36,49200.62,58.0,,,,Berlin
+K1196,Besucher,m,43,37696.63,7.0,,,,Niedersachsen
+K1444,Besucher,m,54,71635.44,46.0,,,,Baden-Württemberg
+K1669,Besucher,m,64,59961.79,48.0,,,,Hessen
+K1450,Besucher,w,41,38375.78,25.0,,,,Thüringen
+K1881,Besucher,m,35,51044.09,21.0,,,,Sachsen
+K1346,Besucher,w,40,54037.31,19.0,,,,Nordrhein-Westfalen
+K1118,Besucher,w,46,65112.43,54.0,,,,Bayern
+K1420,Besucher,w,70,69099.94,24.0,,,,Sachsen
+K1705,Besucher,w,65,77311.97,28.0,,,,Nordrhein-Westfalen
+K1492,Besucher,m,35,34180.68,26.0,,,,Niedersachsen
+K1378,Besucher,m,52,66521.78,47.0,,,,Nordrhein-Westfalen
+K1271,Besucher,m,34,34322.45,17.0,,,,Sachsen
+K1988,Besucher,w,37,39509.39,34.0,,,,Baden-Württemberg
+K1751,Besucher,m,40,55845.12,26.0,,,,Berlin
+K1923,Besucher,m,63,78156.47,27.0,,,,Nordrhein-Westfalen
+K1589,Besucher,m,35,47150.77,12.0,,,,Berlin
+K1978,Besucher,m,31,26466.44,40.0,,,,Thüringen
+K1609,Besucher,m,32,40776.02,13.0,,,,Berlin
+K1936,Besucher,w,60,65588.4,38.0,,,,Bayern
+K1348,Besucher,m,58,60418.97,55.0,,,,Nordrhein-Westfalen
+K1671,Besucher,w,41,45567.3,35.0,,,,Baden-Württemberg
+K1667,Besucher,w,32,35272.93,30.0,,,,Nordrhein-Westfalen
+K1791,Besucher,w,46,70647.17,52.0,,,,Bayern
+K1294,Besucher,m,57,77462.13,27.0,,,,Bayern
+K1887,Besucher,m,60,54229.97,50.0,,,,Hessen
+K1804,Besucher,m,30,42931.67,34.0,,,,Nordrhein-Westfalen
+K1580,Besucher,w,36,44077.96,25.0,,,,Nordrhein-Westfalen
+K1786,Besucher,m,30,52892.24,33.0,,,,Baden-Württemberg
+K1615,Besucher,m,46,65676.47,20.0,,,,Baden-Württemberg
+K1163,Besucher,m,52,49271.15,31.0,,,,Niedersachsen
+K1579,Besucher,m,55,60312.34,26.0,,,,Bayern
+K1665,Besucher,m,43,49469.83,31.0,,,,Berlin
+K1852,Besucher,w,33,49675.88,36.0,,,,Hamburg
+K1357,Besucher,w,63,60048.62,33.0,,,,Berlin
+K1126,Besucher,w,65,86000.22,39.0,,,,Bayern
+K1418,Besucher,w,67,85349.59,35.0,,,,Baden-Württemberg
+K1564,Besucher,w,42,55437.14,37.0,,,,Brandenburg
+K1265,Besucher,m,61,74660.13,36.0,,,,Bayern
+K1381,Besucher,w,43,63300.07,44.0,,,,Berlin
+K1296,Besucher,m,63,67502.37,32.0,,,,Nordrhein-Westfalen
+K1490,Besucher,w,40,41373.85,50.0,,,,Thüringen
+K1910,Besucher,w,39,41160.41,37.0,,,,Baden-Württemberg
+K1518,Besucher,w,66,89744.99,37.0,,,,Bayern
+K1596,Besucher,w,62,70988.45,38.0,,,,Niedersachsen
+K1448,Besucher,w,60,62735.46,28.0,,,,Baden-Württemberg
+K1874,Besucher,m,70,84240.32,30.0,,,,Hamburg
+K1413,Besucher,m,46,64231.46,52.0,,,,Bayern
+K1766,Besucher,w,47,55129.66,33.0,,,,Bayern
+K1235,Besucher,m,43,59104.51,62.0,,,,Niedersachsen
+K1768,Besucher,m,59,73522.01,26.0,,,,Hamburg
+K1976,Besucher,m,51,46979.79,43.0,,,,Hamburg
+K1204,Besucher,m,34,50082.23,19.0,,,,Baden-Württemberg
+K1477,Besucher,m,49,61221.78,35.0,,,,Nordrhein-Westfalen
+K1192,Besucher,w,57,74592.8,38.0,,,,Sachsen
+K1563,Besucher,m,68,86843.34,28.0,,,,Berlin
+K1435,Besucher,m,61,72725.19,28.0,,,,Berlin
+K1319,Besucher,m,32,31562.65,52.0,,,,Baden-Württemberg
+K1571,Besucher,w,37,44541.7,34.0,,,,Niedersachsen
+K1226,Besucher,m,44,61848.47,22.0,,,,Baden-Württemberg
+K1719,Besucher,w,53,64184.29,33.0,,,,Brandenburg
+K1125,Besucher,m,41,41970.76,20.0,,,,Hamburg
+K1805,Besucher,m,31,47827.72,20.0,,,,Hessen
+K1176,Besucher,w,37,41292.54,33.0,,,,Niedersachsen
+K1211,Besucher,m,32,34391.82,48.0,,,,Hessen
+K1375,Besucher,w,41,68516.5,34.0,,,,Sachsen
+K1965,Besucher,w,65,89685.33,23.0,,,,Bayern
+K1540,Besucher,w,68,95714.31,32.0,,,,Bayern
+K1207,Besucher,w,49,73319.19,27.0,,,,Niedersachsen
